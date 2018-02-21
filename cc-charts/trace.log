@@ -1,0 +1,1945 @@
+[2018-01-28T22:25:39+03:00]: 1182 BTC: no cache file present
+[2018-01-28T22:25:39+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:25:40+03:00]: 0 rows loaded
+[2018-01-28T22:25:50+03:00]: 1182 BTC: no cache file present
+[2018-01-28T22:25:50+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:25:50+03:00]: 0 rows loaded
+[2018-01-28T22:25:57+03:00]: 1182 BTC: no cache file present
+[2018-01-28T22:25:57+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:25:58+03:00]: 0 rows loaded
+[2018-01-28T22:26:33+03:00]: 1182 BTC: no cache file present
+[2018-01-28T22:26:33+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:26:34+03:00]: 0 rows loaded
+[2018-01-28T22:26:40+03:00]: 1182 BTC: no cache file present
+[2018-01-28T22:26:40+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:26:41+03:00]: 2001 rows retrieved from API
+[2018-01-28T22:26:41+03:00]: 2001 rows loaded
+[2018-01-28T22:27:57+03:00]: BTC: cache file exists
+[2018-01-28T22:27:57+03:00]: 2001 rows loaded
+[2018-01-28T22:28:12+03:00]: BTC: cache file exists
+[2018-01-28T22:28:12+03:00]: 2001 rows loaded
+[2018-01-28T22:28:39+03:00]: 7605 ETH: no cache file present
+[2018-01-28T22:28:39+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-28T22:28:39+03:00]: 2001 rows retrieved from API
+[2018-01-28T22:28:39+03:00]: 2001 rows loaded
+[2018-01-28T23:07:37+03:00]: BTC: cache file exists
+[2018-01-28T23:07:37+03:00]: 2001 rows loaded
+[2018-01-28T23:07:46+03:00]: BTC: cache file exists
+[2018-01-28T23:07:46+03:00]: 2001 rows loaded
+[2018-01-28T23:07:51+03:00]: BTC: cache file exists
+[2018-01-28T23:07:51+03:00]: 2001 rows loaded
+[2018-01-28T23:07:58+03:00]: BTC: cache file exists
+[2018-01-28T23:07:58+03:00]: 2001 rows loaded
+[2018-01-28T23:11:04+03:00]: BTC: cache file exists
+[2018-01-28T23:11:04+03:00]: 2001 rows loaded
+[2018-01-28T23:11:11+03:00]: BTC: cache file exists
+[2018-01-28T23:11:11+03:00]: 2001 rows loaded
+[2018-01-28T23:11:13+03:00]: BTC: cache file exists
+[2018-01-28T23:11:13+03:00]: 2001 rows loaded
+[2018-01-28T23:11:17+03:00]: BTC: cache file exists
+[2018-01-28T23:11:17+03:00]: 2001 rows loaded
+[2018-01-28T23:12:58+03:00]: BTC: cache file exists
+[2018-01-28T23:12:58+03:00]: 2001 rows loaded
+[2018-01-28T23:13:36+03:00]: BTC: cache file exists
+[2018-01-28T23:13:36+03:00]: 2001 rows loaded
+[2018-01-28T23:13:44+03:00]: BTC: cache file exists
+[2018-01-28T23:13:44+03:00]: 2001 rows loaded
+[2018-01-28T23:48:49+03:00]: BTC: cache file exists
+[2018-01-28T23:48:49+03:00]: 2001 rows loaded
+[2018-01-28T23:57:00+03:00]: BTC: cache file exists
+[2018-01-28T23:57:00+03:00]: 2001 rows loaded
+[2018-01-28T23:58:18+03:00]: BTC: cache file exists
+[2018-01-28T23:58:18+03:00]: 2001 rows loaded
+[2018-01-29T01:18:47+03:00]: BTC: cache file exists
+[2018-01-29T01:18:47+03:00]: 2001 rows loaded
+[2018-01-29T01:28:34+03:00]: BTC: cache file exists
+[2018-01-29T01:28:34+03:00]: 2001 rows loaded
+[2018-01-29T01:29:14+03:00]: BTC: cache file exists
+[2018-01-29T01:29:14+03:00]: 2001 rows loaded
+[2018-01-29T01:31:24+03:00]: BTC: cache file exists
+[2018-01-29T01:31:24+03:00]: 2001 rows loaded
+[2018-01-29T01:33:05+03:00]: BTC: cache file exists
+[2018-01-29T01:33:05+03:00]: 2001 rows loaded
+[2018-01-29T01:33:10+03:00]: BTC: cache file exists
+[2018-01-29T01:33:10+03:00]: 2001 rows loaded
+[2018-01-29T01:34:04+03:00]: BTC: cache file exists
+[2018-01-29T01:34:04+03:00]: 2001 rows loaded
+[2018-01-29T01:34:48+03:00]: BTC: cache file exists
+[2018-01-29T01:34:48+03:00]: 2001 rows loaded
+[2018-01-29T01:37:36+03:00]: BTC: cache file exists
+[2018-01-29T01:37:36+03:00]: 2001 rows loaded
+[2018-01-29T01:45:48+03:00]: BTC: cache file exists
+[2018-01-29T01:45:48+03:00]: 2001 rows loaded
+[2018-01-29T01:48:37+03:00]: BTC: cache file exists
+[2018-01-29T01:48:37+03:00]: 2001 rows loaded
+[2018-01-29T01:51:38+03:00]: BTC: cache file exists
+[2018-01-29T01:51:38+03:00]: 2001 rows loaded
+[2018-01-29T01:53:58+03:00]: ETH: cache file exists
+[2018-01-29T01:53:58+03:00]: 2001 rows loaded
+[2018-01-29T01:56:36+03:00]: BTC: cache file exists
+[2018-01-29T01:56:36+03:00]: 2001 rows loaded
+[2018-01-29T01:56:57+03:00]: ETH: cache file exists
+[2018-01-29T01:56:57+03:00]: 2001 rows loaded
+[2018-01-29T01:57:39+03:00]: BTC: cache file exists
+[2018-01-29T01:57:39+03:00]: 2001 rows loaded
+[2018-01-29T02:03:52+03:00]: BTC: cache file exists
+[2018-01-29T02:03:52+03:00]: 2001 rows loaded
+[2018-01-29T02:13:58+03:00]: BTC: cache file exists
+[2018-01-29T02:13:58+03:00]: 2001 rows loaded
+[2018-01-29T02:17:44+03:00]: BTC: cache file exists
+[2018-01-29T02:17:44+03:00]: 2001 rows loaded
+[2018-01-29T02:18:12+03:00]: BTC: cache file exists
+[2018-01-29T02:18:12+03:00]: 2001 rows loaded
+[2018-01-29T02:24:15+03:00]: BTC: cache file exists
+[2018-01-29T02:24:15+03:00]: 2001 rows loaded
+[2018-01-29T02:38:22+03:00]: BTC: cache file exists
+[2018-01-29T02:38:22+03:00]: 2001 rows loaded
+[2018-01-29T02:39:59+03:00]: BTC: cache file exists
+[2018-01-29T02:39:59+03:00]: 2001 rows loaded
+[2018-01-29T02:57:00+03:00]: BTC: cache file exists
+[2018-01-29T02:57:00+03:00]: 2001 rows loaded
+[2018-01-29T03:21:54+03:00]: BTC: cache file exists
+[2018-01-29T03:21:54+03:00]: 2001 rows loaded
+[2018-01-29T03:34:19+03:00]: BTC: cache file exists
+[2018-01-29T03:34:19+03:00]: 2001 rows loaded
+[2018-01-29T04:36:30+03:00]: BTC: cache file exists
+[2018-01-29T04:36:30+03:00]: 2001 rows loaded
+[2018-01-29T04:59:20+03:00]: BTC: cache file exists
+[2018-01-29T04:59:20+03:00]: 2001 rows loaded
+[2018-01-29T05:22:22+03:00]: BTC: cache file exists
+[2018-01-29T05:22:22+03:00]: 2001 rows loaded
+[2018-01-29T05:28:37+03:00]: BTC: cache file exists
+[2018-01-29T05:28:37+03:00]: 2001 rows loaded
+[2018-01-29T05:34:09+03:00]: BTC: cache file exists
+[2018-01-29T05:34:09+03:00]: 2001 rows loaded
+[2018-01-29T05:40:35+03:00]: BTC: cache file exists
+[2018-01-29T05:40:35+03:00]: 2001 rows loaded
+[2018-01-29T06:19:52+03:00]: BTC: cache file exists
+[2018-01-29T06:19:52+03:00]: 2001 rows loaded
+[2018-01-29T06:38:15+03:00]: BTC: cache file exists
+[2018-01-29T06:38:15+03:00]: 2001 rows loaded
+[2018-01-29T06:58:31+03:00]: BTC: cache file exists
+[2018-01-29T06:58:31+03:00]: 2001 rows loaded
+[2018-01-29T07:02:01+03:00]: BTC: cache file exists
+[2018-01-29T07:02:01+03:00]: 2001 rows loaded
+[2018-01-29T07:14:13+03:00]: BTC: cache file exists
+[2018-01-29T07:14:13+03:00]: 2001 rows loaded
+[2018-01-29T07:21:52+03:00]: BTC: cache file exists
+[2018-01-29T07:21:52+03:00]: 2001 rows loaded
+[2018-01-29T07:27:46+03:00]: BTC: cache file exists
+[2018-01-29T07:27:46+03:00]: 2001 rows loaded
+[2018-01-29T07:35:46+03:00]: BTC: cache file exists
+[2018-01-29T07:35:46+03:00]: 2001 rows loaded
+[2018-01-29T07:41:04+03:00]: BTC: cache file exists
+[2018-01-29T07:41:04+03:00]: 2001 rows loaded
+[2018-01-29T07:49:06+03:00]: BTC: cache file exists
+[2018-01-29T07:49:06+03:00]: 2001 rows loaded
+[2018-01-29T07:57:01+03:00]: BTC: cache file exists
+[2018-01-29T07:57:01+03:00]: 2001 rows loaded
+[2018-01-29T08:17:15+03:00]: BTC: cache file exists
+[2018-01-29T08:17:15+03:00]: 2001 rows loaded
+[2018-01-29T08:17:31+03:00]: BTC: cache file exists
+[2018-01-29T08:17:31+03:00]: 2001 rows loaded
+[2018-01-29T08:28:51+03:00]: BTC: cache file exists
+[2018-01-29T08:28:51+03:00]: 2001 rows loaded
+[2018-01-29T08:30:26+03:00]: BTC: cache file exists
+[2018-01-29T08:30:26+03:00]: 2001 rows loaded
+[2018-01-29T08:30:51+03:00]: BTC: cache file exists
+[2018-01-29T08:30:51+03:00]: 2001 rows loaded
+[2018-01-29T08:31:06+03:00]: BTC: cache file exists
+[2018-01-29T08:31:06+03:00]: 2001 rows loaded
+[2018-01-29T08:32:34+03:00]: BTC: cache file exists
+[2018-01-29T08:32:34+03:00]: 2001 rows loaded
+[2018-01-29T08:34:27+03:00]: BTC: cache file exists
+[2018-01-29T08:34:27+03:00]: 2001 rows loaded
+[2018-01-29T08:35:14+03:00]: BTC: cache file exists
+[2018-01-29T08:35:14+03:00]: 2001 rows loaded
+[2018-01-29T08:39:55+03:00]: BTC: cache file exists
+[2018-01-29T08:39:55+03:00]: 2001 rows loaded
+[2018-01-29T08:42:49+03:00]: BTC: cache file exists
+[2018-01-29T08:42:49+03:00]: 2001 rows loaded
+[2018-01-29T08:44:36+03:00]: BTC: cache file exists
+[2018-01-29T08:44:36+03:00]: 2001 rows loaded
+[2018-01-29T08:45:54+03:00]: BTC: cache file exists
+[2018-01-29T08:45:54+03:00]: 2001 rows loaded
+[2018-01-29T08:46:22+03:00]: 182346 BTPL: no cache file present
+[2018-01-29T08:46:22+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTPL&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T08:46:23+03:00]: 2001 rows retrieved from API
+[2018-01-29T08:46:23+03:00]: 2001 rows loaded
+[2018-01-29T08:49:12+03:00]: BTC: cache file exists
+[2018-01-29T08:49:12+03:00]: 2001 rows loaded
+[2018-01-29T08:49:19+03:00]: BTC: cache file exists
+[2018-01-29T08:49:19+03:00]: 2001 rows loaded
+[2018-01-29T08:51:10+03:00]: BTC: cache file exists
+[2018-01-29T08:51:10+03:00]: 2001 rows loaded
+[2018-01-29T08:54:38+03:00]: BTC: cache file exists
+[2018-01-29T08:54:38+03:00]: 2001 rows loaded
+[2018-01-29T09:05:07+03:00]: BTC: cache file exists
+[2018-01-29T09:05:07+03:00]: 2001 rows loaded
+[2018-01-29T09:05:13+03:00]: BTC: cache file exists
+[2018-01-29T09:05:13+03:00]: 2001 rows loaded
+[2018-01-29T09:05:38+03:00]: 186335 COSS: no cache file present
+[2018-01-29T09:05:38+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=COSS&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T09:05:39+03:00]: 2001 rows retrieved from API
+[2018-01-29T09:05:39+03:00]: 2001 rows loaded
+[2018-01-29T09:06:05+03:00]: 349487 GAT: no cache file present
+[2018-01-29T09:06:05+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=GAT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T09:06:05+03:00]: No data retrieved from API
+[2018-01-29T09:06:05+03:00]: 0 rows loaded
+[2018-01-29T09:10:54+03:00]: BTC: cache file exists
+[2018-01-29T09:10:54+03:00]: 2001 rows loaded
+[2018-01-29T09:13:26+03:00]: BTC: cache file exists
+[2018-01-29T09:13:26+03:00]: 2001 rows loaded
+[2018-01-29T09:18:45+03:00]: BTC: cache file exists
+[2018-01-29T09:18:45+03:00]: 2001 rows loaded
+[2018-01-29T09:18:49+03:00]: BTC: cache file exists
+[2018-01-29T09:18:49+03:00]: 2001 rows loaded
+[2018-01-29T09:18:53+03:00]: BTC: cache file exists
+[2018-01-29T09:18:53+03:00]: 2001 rows loaded
+[2018-01-29T09:20:10+03:00]: BTC: cache file exists
+[2018-01-29T09:20:10+03:00]: 2001 rows loaded
+[2018-01-29T09:20:31+03:00]: BTC: cache file exists
+[2018-01-29T09:20:31+03:00]: 2001 rows loaded
+[2018-01-29T09:22:59+03:00]: BTC: cache file exists
+[2018-01-29T09:22:59+03:00]: 2001 rows loaded
+[2018-01-29T09:26:46+03:00]: BTC: cache file exists
+[2018-01-29T09:26:46+03:00]: 2001 rows loaded
+[2018-01-29T09:27:19+03:00]: BTC: cache file exists
+[2018-01-29T09:27:19+03:00]: 2001 rows loaded
+[2018-01-29T09:32:43+03:00]: BTC: cache file exists
+[2018-01-29T09:32:43+03:00]: 2001 rows loaded
+[2018-01-29T09:37:51+03:00]: BTC: cache file exists
+[2018-01-29T09:37:51+03:00]: 2001 rows loaded
+[2018-01-29T09:40:06+03:00]: 238622 LNK: no cache file present
+[2018-01-29T09:40:06+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LNK&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T09:40:07+03:00]: 2001 rows retrieved from API
+[2018-01-29T09:40:07+03:00]: 2001 rows loaded
+[2018-01-29T09:40:40+03:00]: BTC: cache file exists
+[2018-01-29T09:40:40+03:00]: 2001 rows loaded
+[2018-01-29T09:40:47+03:00]: 12225 MI: no cache file present
+[2018-01-29T09:40:47+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=MI&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T09:40:48+03:00]: 2001 rows retrieved from API
+[2018-01-29T09:40:48+03:00]: 2001 rows loaded
+[2018-01-29T09:41:52+03:00]: BTC: cache file exists
+[2018-01-29T09:41:52+03:00]: 2001 rows loaded
+[2018-01-29T09:44:14+03:00]: BTC: cache file exists
+[2018-01-29T09:44:14+03:00]: 2001 rows loaded
+[2018-01-29T09:52:23+03:00]: BTC: cache file exists
+[2018-01-29T09:52:23+03:00]: 2001 rows loaded
+[2018-01-29T09:54:07+03:00]: 5031 XRP: no cache file present
+[2018-01-29T09:54:07+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XRP&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T09:54:07+03:00]: 2001 rows retrieved from API
+[2018-01-29T09:54:07+03:00]: 2001 rows loaded
+[2018-01-29T09:55:15+03:00]: ETH: cache file exists
+[2018-01-29T09:55:15+03:00]: 2001 rows loaded
+[2018-01-29T09:58:01+03:00]: BTC: cache file exists
+[2018-01-29T09:58:01+03:00]: 2001 rows loaded
+[2018-01-29T09:58:22+03:00]: BTC: cache file exists
+[2018-01-29T09:58:22+03:00]: 2001 rows loaded
+[2018-01-29T10:03:54+03:00]: BTC: cache file exists
+[2018-01-29T10:03:54+03:00]: 2001 rows loaded
+[2018-01-29T10:05:20+03:00]: BTC: cache file exists
+[2018-01-29T10:05:20+03:00]: 2001 rows loaded
+[2018-01-29T10:08:03+03:00]: BTC: cache file exists
+[2018-01-29T10:08:03+03:00]: 2001 rows loaded
+[2018-01-29T10:14:52+03:00]: BTC: cache file exists
+[2018-01-29T10:14:52+03:00]: 2001 rows loaded
+[2018-01-29T10:15:41+03:00]: XRP: cache file exists
+[2018-01-29T10:15:41+03:00]: 2001 rows loaded
+[2018-01-29T10:20:40+03:00]: BTC: cache file exists
+[2018-01-29T10:20:40+03:00]: 2001 rows loaded
+[2018-01-29T10:27:26+03:00]: 1182 BTC: no cache file present
+[2018-01-29T10:27:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T10:27:26+03:00]: 2001 rows retrieved from API
+[2018-01-29T10:27:26+03:00]: 2001 rows loaded
+[2018-01-29T10:27:36+03:00]: BTC: cache file exists
+[2018-01-29T10:27:36+03:00]: 2001 rows loaded
+[2018-01-29T10:30:44+03:00]: BTC: cache file exists
+[2018-01-29T10:30:44+03:00]: 2001 rows loaded
+[2018-01-29T10:39:47+03:00]: BTC: cache file exists
+[2018-01-29T10:39:47+03:00]: 2001 rows loaded
+[2018-01-29T10:42:32+03:00]: BTC: cache file exists
+[2018-01-29T10:42:32+03:00]: 2001 rows loaded
+[2018-01-29T10:42:57+03:00]: 23728 SBD: no cache file present
+[2018-01-29T10:42:57+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=SBD&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T10:42:58+03:00]: 2001 rows retrieved from API
+[2018-01-29T10:42:58+03:00]: 2001 rows loaded
+[2018-01-29T10:43:19+03:00]: BTC: cache file exists
+[2018-01-29T10:43:19+03:00]: 2001 rows loaded
+[2018-01-29T10:43:54+03:00]: BTC: cache file exists
+[2018-01-29T10:43:54+03:00]: 2001 rows loaded
+[2018-01-29T10:47:52+03:00]: BTC: cache file exists
+[2018-01-29T10:47:52+03:00]: 2001 rows loaded
+[2018-01-29T10:50:11+03:00]: BTC: cache file exists
+[2018-01-29T10:50:11+03:00]: 2001 rows loaded
+[2018-01-29T10:52:26+03:00]: BTC: cache file exists
+[2018-01-29T10:52:26+03:00]: 2001 rows loaded
+[2018-01-29T10:52:42+03:00]: BTC: cache file exists
+[2018-01-29T10:52:42+03:00]: 2001 rows loaded
+[2018-01-29T10:59:13+03:00]: BTC: cache file exists
+[2018-01-29T10:59:13+03:00]: 2001 rows loaded
+[2018-01-29T11:01:57+03:00]: BTC: cache file exists
+[2018-01-29T11:01:57+03:00]: 2001 rows loaded
+[2018-01-29T11:02:13+03:00]: 171986 USDT: no cache file present
+[2018-01-29T11:02:13+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=USDT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T11:02:14+03:00]: 2001 rows retrieved from API
+[2018-01-29T11:02:14+03:00]: 2001 rows loaded
+[2018-01-29T11:02:20+03:00]: BTC: cache file exists
+[2018-01-29T11:02:20+03:00]: 2001 rows loaded
+[2018-01-29T11:02:35+03:00]: 7605 ETH: no cache file present
+[2018-01-29T11:02:35+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T11:02:35+03:00]: 2001 rows retrieved from API
+[2018-01-29T11:02:35+03:00]: 2001 rows loaded
+[2018-01-29T11:03:38+03:00]: BTC: cache file exists
+[2018-01-29T11:03:38+03:00]: 2001 rows loaded
+[2018-01-29T11:09:48+03:00]: BTC: cache file exists
+[2018-01-29T11:09:48+03:00]: 2001 rows loaded
+[2018-01-29T11:13:07+03:00]: BTC: cache file exists
+[2018-01-29T11:13:07+03:00]: 2001 rows loaded
+[2018-01-29T11:23:23+03:00]: BTC: cache file exists
+[2018-01-29T11:23:23+03:00]: 2001 rows loaded
+[2018-01-29T11:32:52+03:00]: BTC: cache file exists
+[2018-01-29T11:32:52+03:00]: 2001 rows loaded
+[2018-01-29T11:33:19+03:00]: BTC: cache file exists
+[2018-01-29T11:33:19+03:00]: 2001 rows loaded
+[2018-01-29T11:37:46+03:00]: BTC: cache file exists
+[2018-01-29T11:37:46+03:00]: 2001 rows loaded
+[2018-01-29T11:39:25+03:00]: BTC: cache file exists
+[2018-01-29T11:39:25+03:00]: 2001 rows loaded
+[2018-01-29T11:48:20+03:00]: BTC: cache file exists
+[2018-01-29T11:48:20+03:00]: 2001 rows loaded
+[2018-01-29T11:52:07+03:00]: BTC: cache file exists
+[2018-01-29T11:52:07+03:00]: 2001 rows loaded
+[2018-01-29T11:52:30+03:00]: USDT: cache file exists
+[2018-01-29T11:52:30+03:00]: 2001 rows loaded
+[2018-01-29T12:03:16+03:00]: BTC: cache file exists
+[2018-01-29T12:03:16+03:00]: 2001 rows loaded
+[2018-01-29T12:22:22+03:00]: BTC: cache file exists
+[2018-01-29T12:22:22+03:00]: 2001 rows loaded
+[2018-01-29T12:29:08+03:00]: BTC: cache file exists
+[2018-01-29T12:29:08+03:00]: 2001 rows loaded
+[2018-01-29T12:29:38+03:00]: 207775 ICOS: no cache file present
+[2018-01-29T12:29:38+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ICOS&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T12:29:39+03:00]: 2001 rows retrieved from API
+[2018-01-29T12:29:39+03:00]: 2001 rows loaded
+[2018-01-29T12:29:51+03:00]: BTC: cache file exists
+[2018-01-29T12:29:51+03:00]: 2001 rows loaded
+[2018-01-29T12:43:55+03:00]: BTC: cache file exists
+[2018-01-29T12:43:55+03:00]: 2001 rows loaded
+[2018-01-29T12:45:25+03:00]: 5285 XEM: no cache file present
+[2018-01-29T12:45:25+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XEM&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T12:45:25+03:00]: 2001 rows retrieved from API
+[2018-01-29T12:45:25+03:00]: 2001 rows loaded
+[2018-01-29T12:49:56+03:00]: BTC: cache file exists
+[2018-01-29T12:49:56+03:00]: 2001 rows loaded
+[2018-01-29T12:51:50+03:00]: BTC: cache file exists
+[2018-01-29T12:51:50+03:00]: 2001 rows loaded
+[2018-01-29T13:06:45+03:00]: BTC: cache file exists
+[2018-01-29T13:06:45+03:00]: 2001 rows loaded
+[2018-01-29T13:39:23+03:00]: BTC: cache file exists
+[2018-01-29T13:39:23+03:00]: 2001 rows loaded
+[2018-01-29T13:42:16+03:00]: BTC: cache file exists
+[2018-01-29T13:42:16+03:00]: 2001 rows loaded
+[2018-01-29T13:45:48+03:00]: BTC: cache file exists
+[2018-01-29T13:45:48+03:00]: 2001 rows loaded
+[2018-01-29T14:36:09+03:00]: BTC: cache file exists
+[2018-01-29T14:36:09+03:00]: 2001 rows loaded
+[2018-01-29T14:37:00+03:00]: 5011 USDE: no cache file present
+[2018-01-29T14:37:00+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=USDE&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T14:37:01+03:00]: 2001 rows retrieved from API
+[2018-01-29T14:37:01+03:00]: 2001 rows loaded
+[2018-01-29T15:00:12+03:00]: BTC: cache file exists
+[2018-01-29T15:00:12+03:00]: 2001 rows loaded
+[2018-01-29T15:00:34+03:00]: 208914 MTH: no cache file present
+[2018-01-29T15:00:34+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=MTH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T15:00:34+03:00]: 2001 rows retrieved from API
+[2018-01-29T15:00:34+03:00]: 2001 rows loaded
+[2018-01-29T15:10:29+03:00]: BTC: cache file exists
+[2018-01-29T15:10:29+03:00]: 2001 rows loaded
+[2018-01-29T16:38:37+03:00]: BTC: cache file exists
+[2018-01-29T16:38:37+03:00]: 2001 rows loaded
+[2018-01-29T16:40:57+03:00]: 4524 FTC: no cache file present
+[2018-01-29T16:40:57+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=FTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T16:40:57+03:00]: 2001 rows retrieved from API
+[2018-01-29T16:40:57+03:00]: 2001 rows loaded
+[2018-01-29T18:15:14+03:00]: BTC: cache file exists
+[2018-01-29T18:15:14+03:00]: 2001 rows loaded
+[2018-01-29T18:15:21+03:00]: 30428 32BIT: no cache file present
+[2018-01-29T18:15:21+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=32BIT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T18:15:23+03:00]: 2001 rows retrieved from API
+[2018-01-29T18:15:23+03:00]: 2001 rows loaded
+[2018-01-29T18:38:00+03:00]: BTC: cache file exists
+[2018-01-29T18:38:00+03:00]: 2001 rows loaded
+[2018-01-29T18:45:05+03:00]: BTC: cache file exists
+[2018-01-29T18:45:05+03:00]: 2001 rows loaded
+[2018-01-29T19:03:03+03:00]: BTC: cache file exists
+[2018-01-29T19:03:03+03:00]: 2001 rows loaded
+[2018-01-29T20:02:00+03:00]: BTC: cache file exists
+[2018-01-29T20:02:00+03:00]: 2001 rows loaded
+[2018-01-29T20:47:11+03:00]: BTC: cache file exists
+[2018-01-29T20:47:11+03:00]: 2001 rows loaded
+[2018-01-29T21:21:24+03:00]: BTC: cache file exists
+[2018-01-29T21:21:24+03:00]: 2001 rows loaded
+[2018-01-29T22:06:36+03:00]: BTC: cache file exists
+[2018-01-29T22:06:36+03:00]: 2001 rows loaded
+[2018-01-29T22:16:34+03:00]: BTC: cache file exists
+[2018-01-29T22:16:34+03:00]: 2001 rows loaded
+[2018-01-29T23:24:17+03:00]: 1182 BTC: no cache file present
+[2018-01-29T23:24:17+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-29T23:24:18+03:00]: 2001 rows retrieved from API
+[2018-01-29T23:24:18+03:00]: 2001 rows loaded
+[2018-01-29T23:58:52+03:00]: BTC: cache file exists
+[2018-01-29T23:58:52+03:00]: 2001 rows loaded
+[2018-01-30T00:32:19+03:00]: BTC: cache file exists
+[2018-01-30T00:32:19+03:00]: 2001 rows loaded
+[2018-01-30T00:36:09+03:00]: BTC: cache file exists
+[2018-01-30T00:36:09+03:00]: 2001 rows loaded
+[2018-01-30T02:53:37+03:00]: BTC: cache file exists
+[2018-01-30T02:53:37+03:00]: 2001 rows loaded
+[2018-01-30T03:04:23+03:00]: BTC: cache file exists
+[2018-01-30T03:04:23+03:00]: 2001 rows loaded
+[2018-01-30T03:05:18+03:00]: BTC: cache file exists
+[2018-01-30T03:05:18+03:00]: 2001 rows loaded
+[2018-01-30T03:06:04+03:00]: BTC: cache file exists
+[2018-01-30T03:06:04+03:00]: 2001 rows loaded
+[2018-01-30T03:07:51+03:00]: BTC: cache file exists
+[2018-01-30T03:07:51+03:00]: 2001 rows loaded
+[2018-01-30T03:08:39+03:00]: BTC: cache file exists
+[2018-01-30T03:08:39+03:00]: 2001 rows loaded
+[2018-01-30T03:09:51+03:00]: BTC: cache file exists
+[2018-01-30T03:09:51+03:00]: 2001 rows loaded
+[2018-01-30T03:24:06+03:00]: BTC: cache file exists
+[2018-01-30T03:24:06+03:00]: 2001 rows loaded
+[2018-01-30T04:17:25+03:00]: BTC: cache file exists
+[2018-01-30T04:17:25+03:00]: 2001 rows loaded
+[2018-01-30T04:17:45+03:00]: 105284 INSN: no cache file present
+[2018-01-30T04:17:45+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=INSN&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-30T04:17:46+03:00]: 2001 rows retrieved from API
+[2018-01-30T04:17:46+03:00]: 2001 rows loaded
+[2018-01-30T09:02:41+03:00]: BTC: cache file exists
+[2018-01-30T09:02:41+03:00]: 2001 rows loaded
+[2018-01-30T10:01:01+03:00]: BTC: cache file exists
+[2018-01-30T10:01:01+03:00]: 2001 rows loaded
+[2018-01-30T10:02:11+03:00]: 13072 SC: no cache file present
+[2018-01-30T10:02:11+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=SC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-30T10:02:11+03:00]: 2001 rows retrieved from API
+[2018-01-30T10:02:11+03:00]: 2001 rows loaded
+[2018-01-30T10:02:53+03:00]: 7605 ETH: no cache file present
+[2018-01-30T10:02:53+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-30T10:02:53+03:00]: 2001 rows retrieved from API
+[2018-01-30T10:02:53+03:00]: 2001 rows loaded
+[2018-01-30T11:26:54+03:00]: 1182 BTC: no cache file present
+[2018-01-30T11:26:54+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-30T11:26:55+03:00]: 0 rows loaded
+[2018-01-30T11:26:55+03:00]: 1182 BTC: no cache file present
+[2018-01-30T11:26:55+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-30T11:26:55+03:00]: 2001 rows retrieved from API
+[2018-01-30T11:26:55+03:00]: 2001 rows loaded
+[2018-01-30T19:44:30+03:00]: BTC: cache file exists
+[2018-01-30T19:44:30+03:00]: 2001 rows loaded
+[2018-01-30T19:54:41+03:00]: BTC: cache file exists
+[2018-01-30T19:54:41+03:00]: 2001 rows loaded
+[2018-01-30T20:01:31+03:00]: BTC: cache file exists
+[2018-01-30T20:01:31+03:00]: 2001 rows loaded
+[2018-01-30T20:04:01+03:00]: BTC: cache file exists
+[2018-01-30T20:04:01+03:00]: 2001 rows loaded
+[2018-01-30T20:05:49+03:00]: ETH: cache file exists
+[2018-01-30T20:05:49+03:00]: 2001 rows loaded
+[2018-01-30T20:09:18+03:00]: BTC: cache file exists
+[2018-01-30T20:09:18+03:00]: 2001 rows loaded
+[2018-01-30T20:26:21+03:00]: BTC: cache file exists
+[2018-01-30T20:26:21+03:00]: 2001 rows loaded
+[2018-01-30T20:46:09+03:00]: BTC: cache file exists
+[2018-01-30T20:46:09+03:00]: 2001 rows loaded
+[2018-01-30T20:51:17+03:00]: BTC: cache file exists
+[2018-01-30T20:51:17+03:00]: 2001 rows loaded
+[2018-01-30T21:47:45+03:00]: BTC: cache file exists
+[2018-01-30T21:47:45+03:00]: 2001 rows loaded
+[2018-01-30T22:20:00+03:00]: BTC: cache file exists
+[2018-01-30T22:20:00+03:00]: 2001 rows loaded
+[2018-01-30T22:36:24+03:00]: BTC: cache file exists
+[2018-01-30T22:36:24+03:00]: 2001 rows loaded
+[2018-01-31T01:59:45+03:00]: 1182 BTC: no cache file present
+[2018-01-31T01:59:45+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T01:59:49+03:00]: 0 rows loaded
+[2018-01-31T02:00:08+03:00]: 1182 BTC: no cache file present
+[2018-01-31T02:00:08+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T02:00:09+03:00]: 2001 rows retrieved from API
+[2018-01-31T02:00:09+03:00]: 2001 rows loaded
+[2018-01-31T02:06:16+03:00]: BTC: cache file exists
+[2018-01-31T02:06:16+03:00]: 2001 rows loaded
+[2018-01-31T02:06:40+03:00]: BTC: cache file exists
+[2018-01-31T02:06:40+03:00]: 2001 rows loaded
+[2018-01-31T06:11:36+03:00]: BTC: cache file exists
+[2018-01-31T06:11:36+03:00]: 2001 rows loaded
+[2018-01-31T06:16:34+03:00]: 4592 RDD: no cache file present
+[2018-01-31T06:16:34+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=RDD&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T06:16:35+03:00]: 0 rows loaded
+[2018-01-31T06:16:59+03:00]: 20745 SIB: no cache file present
+[2018-01-31T06:16:59+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=SIB&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T06:16:59+03:00]: 2001 rows retrieved from API
+[2018-01-31T06:16:59+03:00]: 2001 rows loaded
+[2018-01-31T06:17:55+03:00]: 7605 ETH: no cache file present
+[2018-01-31T06:17:55+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T06:17:56+03:00]: 2001 rows retrieved from API
+[2018-01-31T06:17:56+03:00]: 2001 rows loaded
+[2018-01-31T06:18:27+03:00]: 310812 SUMO: no cache file present
+[2018-01-31T06:18:27+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=SUMO&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T06:18:27+03:00]: 2001 rows retrieved from API
+[2018-01-31T06:18:27+03:00]: 2001 rows loaded
+[2018-01-31T06:18:53+03:00]: 27368 NEO: no cache file present
+[2018-01-31T06:18:53+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=NEO&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T06:18:55+03:00]: 2001 rows retrieved from API
+[2018-01-31T06:18:55+03:00]: 2001 rows loaded
+[2018-01-31T07:59:44+03:00]: BTC: cache file exists
+[2018-01-31T07:59:44+03:00]: 2001 rows loaded
+[2018-01-31T10:57:36+03:00]: BTC: cache file exists
+[2018-01-31T10:57:36+03:00]: 2001 rows loaded
+[2018-01-31T12:18:52+03:00]: BTC: cache file exists
+[2018-01-31T12:18:52+03:00]: 2001 rows loaded
+[2018-01-31T12:21:35+03:00]: BTC: cache file exists
+[2018-01-31T12:21:35+03:00]: 2001 rows loaded
+[2018-01-31T12:23:10+03:00]: 13074 CLV: no cache file present
+[2018-01-31T12:23:10+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=CLV&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T12:23:10+03:00]: 2001 rows retrieved from API
+[2018-01-31T12:23:11+03:00]: 2001 rows loaded
+[2018-01-31T12:25:24+03:00]: BTC: cache file exists
+[2018-01-31T12:25:24+03:00]: 2001 rows loaded
+[2018-01-31T12:31:05+03:00]: BTC: cache file exists
+[2018-01-31T12:31:05+03:00]: 2001 rows loaded
+[2018-01-31T14:06:04+03:00]: 1182 BTC: no cache file present
+[2018-01-31T14:06:04+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T14:06:05+03:00]: 0 rows loaded
+[2018-01-31T14:06:23+03:00]: 1182 BTC: no cache file present
+[2018-01-31T14:06:23+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T14:06:23+03:00]: 2001 rows retrieved from API
+[2018-01-31T14:06:23+03:00]: 2001 rows loaded
+[2018-01-31T14:07:19+03:00]: 350048 BLUE: no cache file present
+[2018-01-31T14:07:19+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BLUE&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T14:07:19+03:00]: 2001 rows retrieved from API
+[2018-01-31T14:07:19+03:00]: 2001 rows loaded
+[2018-01-31T14:07:20+03:00]: BTC: cache file exists
+[2018-01-31T14:07:20+03:00]: 2001 rows loaded
+[2018-01-31T14:10:53+03:00]: BTC: cache file exists
+[2018-01-31T14:10:53+03:00]: 2001 rows loaded
+[2018-01-31T14:11:14+03:00]: 238622 LNK: no cache file present
+[2018-01-31T14:11:14+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LNK&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T14:11:16+03:00]: 2001 rows retrieved from API
+[2018-01-31T14:11:16+03:00]: 2001 rows loaded
+[2018-01-31T14:11:23+03:00]: BTC: cache file exists
+[2018-01-31T14:11:23+03:00]: 2001 rows loaded
+[2018-01-31T14:11:48+03:00]: 28021 BITUSD: no cache file present
+[2018-01-31T14:11:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BITUSD&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T14:11:48+03:00]: 2001 rows retrieved from API
+[2018-01-31T14:11:48+03:00]: 2001 rows loaded
+[2018-01-31T15:02:47+03:00]: BTC: cache file exists
+[2018-01-31T15:02:47+03:00]: 2001 rows loaded
+[2018-01-31T15:02:57+03:00]: BTC: cache file exists
+[2018-01-31T15:02:57+03:00]: 2001 rows loaded
+[2018-01-31T15:05:46+03:00]: BTC: cache file exists
+[2018-01-31T15:05:46+03:00]: 2001 rows loaded
+[2018-01-31T15:08:40+03:00]: BTC: cache file exists
+[2018-01-31T15:08:40+03:00]: 2001 rows loaded
+[2018-01-31T15:09:09+03:00]: BTC: cache file exists
+[2018-01-31T15:09:09+03:00]: 2001 rows loaded
+[2018-01-31T15:27:39+03:00]: BTC: cache file exists
+[2018-01-31T15:27:39+03:00]: 2001 rows loaded
+[2018-01-31T15:36:03+03:00]: BTC: cache file exists
+[2018-01-31T15:36:03+03:00]: 2001 rows loaded
+[2018-01-31T15:36:41+03:00]: BTC: cache file exists
+[2018-01-31T15:36:41+03:00]: 2001 rows loaded
+[2018-01-31T15:48:15+03:00]: BTC: cache file exists
+[2018-01-31T15:48:15+03:00]: 2001 rows loaded
+[2018-01-31T19:09:58+03:00]: BTC: cache file exists
+[2018-01-31T19:09:58+03:00]: 2001 rows loaded
+[2018-01-31T19:33:40+03:00]: BTC: cache file exists
+[2018-01-31T19:33:40+03:00]: 2001 rows loaded
+[2018-01-31T19:34:18+03:00]: 105220 XPS: no cache file present
+[2018-01-31T19:34:18+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XPS&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T19:34:20+03:00]: 0 rows loaded
+[2018-01-31T20:26:50+03:00]: BTC: cache file exists
+[2018-01-31T20:26:50+03:00]: 2001 rows loaded
+[2018-01-31T20:27:48+03:00]: BTC: cache file exists
+[2018-01-31T20:27:48+03:00]: 2001 rows loaded
+[2018-01-31T20:29:32+03:00]: BTC: cache file exists
+[2018-01-31T20:29:32+03:00]: 2001 rows loaded
+[2018-01-31T21:22:09+03:00]: BTC: cache file exists
+[2018-01-31T21:22:09+03:00]: 2001 rows loaded
+[2018-01-31T21:51:33+03:00]: BTC: cache file exists
+[2018-01-31T21:51:33+03:00]: 2001 rows loaded
+[2018-01-31T21:58:34+03:00]: BTC: cache file exists
+[2018-01-31T21:58:34+03:00]: 2001 rows loaded
+[2018-01-31T22:07:53+03:00]: BTC: cache file exists
+[2018-01-31T22:07:53+03:00]: 2001 rows loaded
+[2018-01-31T22:40:13+03:00]: BTC: cache file exists
+[2018-01-31T22:40:13+03:00]: 2001 rows loaded
+[2018-01-31T23:33:47+03:00]: BTC: cache file exists
+[2018-01-31T23:33:47+03:00]: 2001 rows loaded
+[2018-01-31T23:38:18+03:00]: BTC: cache file exists
+[2018-01-31T23:38:18+03:00]: 2001 rows loaded
+[2018-01-31T23:42:01+03:00]: BTC: cache file exists
+[2018-01-31T23:42:01+03:00]: 2001 rows loaded
+[2018-01-31T23:42:12+03:00]: BTC: cache file exists
+[2018-01-31T23:42:12+03:00]: 2001 rows loaded
+[2018-01-31T23:42:34+03:00]: 3808 LTC: no cache file present
+[2018-01-31T23:42:34+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:42:35+03:00]: 2001 rows retrieved from API
+[2018-01-31T23:42:35+03:00]: 2001 rows loaded
+[2018-01-31T23:42:48+03:00]: 20196 DSH: no cache file present
+[2018-01-31T23:42:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:42:48+03:00]: 0 rows loaded
+[2018-01-31T23:43:00+03:00]: 4430 DGB: no cache file present
+[2018-01-31T23:43:00+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DGB&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:43:00+03:00]: 2001 rows retrieved from API
+[2018-01-31T23:43:00+03:00]: 2001 rows loaded
+[2018-01-31T23:44:35+03:00]: 20196 DSH: no cache file present
+[2018-01-31T23:44:35+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:44:35+03:00]: 2001 rows retrieved from API
+[2018-01-31T23:44:35+03:00]: 2001 rows loaded
+[2018-01-31T23:44:41+03:00]: BTC: cache file exists
+[2018-01-31T23:44:41+03:00]: 2001 rows loaded
+[2018-01-31T23:45:26+03:00]: 202330 BCH: no cache file present
+[2018-01-31T23:45:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BCH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:45:26+03:00]: 2001 rows retrieved from API
+[2018-01-31T23:45:26+03:00]: 2001 rows loaded
+[2018-01-31T23:48:20+03:00]: BTC: cache file exists
+[2018-01-31T23:48:20+03:00]: 2001 rows loaded
+[2018-01-31T23:53:54+03:00]: BTC: cache file exists
+[2018-01-31T23:53:54+03:00]: 2001 rows loaded
+[2018-01-31T23:54:19+03:00]: BTC: cache file exists
+[2018-01-31T23:54:19+03:00]: 2001 rows loaded
+[2018-01-31T23:54:32+03:00]: 116180 ZEN: no cache file present
+[2018-01-31T23:54:32+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ZEN&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-01-31T23:54:33+03:00]: 0 rows loaded
+[2018-02-01T00:08:32+03:00]: BTC: cache file exists
+[2018-02-01T00:08:32+03:00]: 2001 rows loaded
+[2018-02-01T00:29:28+03:00]: BTC: cache file exists
+[2018-02-01T00:29:28+03:00]: 2001 rows loaded
+[2018-02-01T01:08:38+03:00]: BTC: cache file exists
+[2018-02-01T01:08:38+03:00]: 2001 rows loaded
+[2018-02-01T01:22:24+03:00]: BTC: cache file exists
+[2018-02-01T01:22:24+03:00]: 2001 rows loaded
+[2018-02-01T01:47:52+03:00]: BTC: cache file exists
+[2018-02-01T01:47:52+03:00]: 2001 rows loaded
+[2018-02-01T01:47:59+03:00]: BTC: cache file exists
+[2018-02-01T01:47:59+03:00]: 2001 rows loaded
+[2018-02-01T01:56:57+03:00]: BTC: cache file exists
+[2018-02-01T01:56:57+03:00]: 2001 rows loaded
+[2018-02-01T02:16:25+03:00]: 1182 BTC: no cache file present
+[2018-02-01T02:16:25+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T02:16:26+03:00]: 2001 rows retrieved from API
+[2018-02-01T02:16:26+03:00]: 2001 rows loaded
+[2018-02-01T04:47:17+03:00]: BTC: cache file exists
+[2018-02-01T04:47:17+03:00]: 2001 rows loaded
+[2018-02-01T04:47:48+03:00]: 20333 STEEM: no cache file present
+[2018-02-01T04:47:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=STEEM&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T04:47:49+03:00]: 2001 rows retrieved from API
+[2018-02-01T04:47:49+03:00]: 2001 rows loaded
+[2018-02-01T05:06:14+03:00]: BTC: cache file exists
+[2018-02-01T05:06:14+03:00]: 2001 rows loaded
+[2018-02-01T05:33:09+03:00]: BTC: cache file exists
+[2018-02-01T05:33:09+03:00]: 2001 rows loaded
+[2018-02-01T10:11:53+03:00]: BTC: cache file exists
+[2018-02-01T10:11:53+03:00]: 2001 rows loaded
+[2018-02-01T10:12:46+03:00]: BTC: cache file exists
+[2018-02-01T10:12:46+03:00]: 2001 rows loaded
+[2018-02-01T12:31:55+03:00]: BTC: cache file exists
+[2018-02-01T12:31:55+03:00]: 2001 rows loaded
+[2018-02-01T14:54:54+03:00]: 1182 BTC: no cache file present
+[2018-02-01T14:54:54+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T14:54:54+03:00]: 2001 rows retrieved from API
+[2018-02-01T14:54:54+03:00]: 2001 rows loaded
+[2018-02-01T15:00:31+03:00]: BTC: cache file exists
+[2018-02-01T15:00:31+03:00]: 2001 rows loaded
+[2018-02-01T20:27:53+03:00]: BTC: cache file exists
+[2018-02-01T20:27:53+03:00]: 2001 rows loaded
+[2018-02-01T20:28:13+03:00]: 5031 XRP: no cache file present
+[2018-02-01T20:28:13+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XRP&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T20:28:14+03:00]: 2001 rows retrieved from API
+[2018-02-01T20:28:14+03:00]: 2001 rows loaded
+[2018-02-01T20:28:27+03:00]: 24854 ZEC: no cache file present
+[2018-02-01T20:28:27+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ZEC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T20:28:28+03:00]: 0 rows loaded
+[2018-02-01T20:50:45+03:00]: BTC: cache file exists
+[2018-02-01T20:50:45+03:00]: 2001 rows loaded
+[2018-02-01T21:52:07+03:00]: BTC: cache file exists
+[2018-02-01T21:52:07+03:00]: 2001 rows loaded
+[2018-02-01T21:52:20+03:00]: BTC: cache file exists
+[2018-02-01T21:52:20+03:00]: 2001 rows loaded
+[2018-02-01T21:53:09+03:00]: 105263 EQT: no cache file present
+[2018-02-01T21:53:09+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=EQT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T21:53:09+03:00]: 0 rows loaded
+[2018-02-01T21:53:30+03:00]: 105284 INSN: no cache file present
+[2018-02-01T21:53:30+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=INSN&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T21:53:30+03:00]: 2001 rows retrieved from API
+[2018-02-01T21:53:30+03:00]: 2001 rows loaded
+[2018-02-01T22:01:29+03:00]: BTC: cache file exists
+[2018-02-01T22:01:29+03:00]: 2001 rows loaded
+[2018-02-01T22:51:02+03:00]: BTC: cache file exists
+[2018-02-01T22:51:02+03:00]: 2001 rows loaded
+[2018-02-01T22:51:49+03:00]: 191037 UET: no cache file present
+[2018-02-01T22:51:49+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=UET&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T22:51:49+03:00]: 0 rows loaded
+[2018-02-01T22:51:58+03:00]: BTC: cache file exists
+[2018-02-01T22:51:58+03:00]: 2001 rows loaded
+[2018-02-01T22:52:28+03:00]: 7605 ETH: no cache file present
+[2018-02-01T22:52:28+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T22:52:28+03:00]: 2001 rows retrieved from API
+[2018-02-01T22:52:29+03:00]: 2001 rows loaded
+[2018-02-01T23:58:18+03:00]: BTC: cache file exists
+[2018-02-01T23:58:18+03:00]: 2001 rows loaded
+[2018-02-01T23:58:25+03:00]: 3808 LTC: no cache file present
+[2018-02-01T23:58:25+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T23:58:26+03:00]: 2001 rows retrieved from API
+[2018-02-01T23:58:26+03:00]: 2001 rows loaded
+[2018-02-01T23:58:28+03:00]: 20196 DSH: no cache file present
+[2018-02-01T23:58:28+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T23:58:29+03:00]: 0 rows loaded
+[2018-02-01T23:58:35+03:00]: 202330 BCH: no cache file present
+[2018-02-01T23:58:35+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BCH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-01T23:58:36+03:00]: 2001 rows retrieved from API
+[2018-02-01T23:58:36+03:00]: 2001 rows loaded
+[2018-02-02T01:00:48+03:00]: BTC: cache file exists
+[2018-02-02T01:00:48+03:00]: 2001 rows loaded
+[2018-02-02T10:35:29+03:00]: 1182 BTC: no cache file present
+[2018-02-02T10:35:29+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T10:35:30+03:00]: 2001 rows retrieved from API
+[2018-02-02T10:35:30+03:00]: 2001 rows loaded
+[2018-02-02T10:42:57+03:00]: BTC: cache file exists
+[2018-02-02T10:42:57+03:00]: 2001 rows loaded
+[2018-02-02T11:34:14+03:00]: BTC: cache file exists
+[2018-02-02T11:34:14+03:00]: 2001 rows loaded
+[2018-02-02T11:35:29+03:00]: 33403 DOGETH: no cache file present
+[2018-02-02T11:35:29+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DOGETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T11:35:29+03:00]: 2001 rows retrieved from API
+[2018-02-02T11:35:29+03:00]: 2001 rows loaded
+[2018-02-02T11:36:02+03:00]: 350048 BLUE: no cache file present
+[2018-02-02T11:36:02+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BLUE&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T11:36:03+03:00]: 2001 rows retrieved from API
+[2018-02-02T11:36:03+03:00]: 2001 rows loaded
+[2018-02-02T11:36:28+03:00]: 191037 UET: no cache file present
+[2018-02-02T11:36:28+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=UET&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T11:36:29+03:00]: 2001 rows retrieved from API
+[2018-02-02T11:36:29+03:00]: 2001 rows loaded
+[2018-02-02T12:27:44+03:00]: BTC: cache file exists
+[2018-02-02T12:27:44+03:00]: 2001 rows loaded
+[2018-02-02T12:27:54+03:00]: 3808 LTC: no cache file present
+[2018-02-02T12:27:54+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T12:27:54+03:00]: 2001 rows retrieved from API
+[2018-02-02T12:27:54+03:00]: 2001 rows loaded
+[2018-02-02T12:27:59+03:00]: 20196 DSH: no cache file present
+[2018-02-02T12:27:59+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T12:28:00+03:00]: 0 rows loaded
+[2018-02-02T12:28:26+03:00]: 20196 DSH: no cache file present
+[2018-02-02T12:28:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T12:28:26+03:00]: 2001 rows retrieved from API
+[2018-02-02T12:28:27+03:00]: 2001 rows loaded
+[2018-02-02T12:29:43+03:00]: BTC: cache file exists
+[2018-02-02T12:29:43+03:00]: 2001 rows loaded
+[2018-02-02T14:36:45+03:00]: BTC: cache file exists
+[2018-02-02T14:36:45+03:00]: 2001 rows loaded
+[2018-02-02T15:37:38+03:00]: BTC: cache file exists
+[2018-02-02T15:37:38+03:00]: 2001 rows loaded
+[2018-02-02T17:03:24+03:00]: BTC: cache file exists
+[2018-02-02T17:03:24+03:00]: 2001 rows loaded
+[2018-02-02T17:12:27+03:00]: LTC: cache file exists
+[2018-02-02T17:12:27+03:00]: 2001 rows loaded
+[2018-02-02T17:13:27+03:00]: 7605 ETH: no cache file present
+[2018-02-02T17:13:27+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T17:13:28+03:00]: 2001 rows retrieved from API
+[2018-02-02T17:13:28+03:00]: 2001 rows loaded
+[2018-02-02T17:18:53+03:00]: BTC: cache file exists
+[2018-02-02T17:18:53+03:00]: 2001 rows loaded
+[2018-02-02T18:22:28+03:00]: BTC: cache file exists
+[2018-02-02T18:22:28+03:00]: 2001 rows loaded
+[2018-02-02T18:26:21+03:00]: LTC: cache file exists
+[2018-02-02T18:26:21+03:00]: 2001 rows loaded
+[2018-02-02T18:26:26+03:00]: 202330 BCH: no cache file present
+[2018-02-02T18:26:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BCH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T18:26:26+03:00]: 2001 rows retrieved from API
+[2018-02-02T18:26:26+03:00]: 2001 rows loaded
+[2018-02-02T18:26:38+03:00]: DSH: cache file exists
+[2018-02-02T18:26:38+03:00]: 2001 rows loaded
+[2018-02-02T18:47:05+03:00]: BTC: cache file exists
+[2018-02-02T18:47:05+03:00]: 2001 rows loaded
+[2018-02-02T21:31:47+03:00]: BTC: cache file exists
+[2018-02-02T21:31:47+03:00]: 2001 rows loaded
+[2018-02-02T21:41:14+03:00]: BTC: cache file exists
+[2018-02-02T21:41:14+03:00]: 2001 rows loaded
+[2018-02-02T21:56:31+03:00]: BTC: cache file exists
+[2018-02-02T21:56:31+03:00]: 2001 rows loaded
+[2018-02-02T23:22:17+03:00]: 1182 BTC: no cache file present
+[2018-02-02T23:22:17+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-02T23:22:18+03:00]: 2001 rows retrieved from API
+[2018-02-02T23:22:18+03:00]: 2001 rows loaded
+[2018-02-03T02:59:56+03:00]: BTC: cache file exists
+[2018-02-03T02:59:56+03:00]: 2001 rows loaded
+[2018-02-03T03:31:04+03:00]: BTC: cache file exists
+[2018-02-03T03:31:04+03:00]: 2001 rows loaded
+[2018-02-03T05:45:03+03:00]: BTC: cache file exists
+[2018-02-03T05:45:03+03:00]: 2001 rows loaded
+[2018-02-03T07:40:51+03:00]: BTC: cache file exists
+[2018-02-03T07:40:51+03:00]: 2001 rows loaded
+[2018-02-03T07:41:47+03:00]: 5038 XMR: no cache file present
+[2018-02-03T07:41:47+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XMR&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T07:41:47+03:00]: 2001 rows retrieved from API
+[2018-02-03T07:41:47+03:00]: 2001 rows loaded
+[2018-02-03T07:43:05+03:00]: BTC: cache file exists
+[2018-02-03T07:43:05+03:00]: 2001 rows loaded
+[2018-02-03T08:25:31+03:00]: BTC: cache file exists
+[2018-02-03T08:25:31+03:00]: 2001 rows loaded
+[2018-02-03T08:25:37+03:00]: BTC: cache file exists
+[2018-02-03T08:25:37+03:00]: 2001 rows loaded
+[2018-02-03T09:51:51+03:00]: BTC: cache file exists
+[2018-02-03T09:51:51+03:00]: 2001 rows loaded
+[2018-02-03T10:44:23+03:00]: BTC: cache file exists
+[2018-02-03T10:44:23+03:00]: 2001 rows loaded
+[2018-02-03T11:24:30+03:00]: 1182 BTC: no cache file present
+[2018-02-03T11:24:30+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T11:24:31+03:00]: 2001 rows retrieved from API
+[2018-02-03T11:24:31+03:00]: 2001 rows loaded
+[2018-02-03T11:57:42+03:00]: BTC: cache file exists
+[2018-02-03T11:57:42+03:00]: 2001 rows loaded
+[2018-02-03T12:08:46+03:00]: BTC: cache file exists
+[2018-02-03T12:08:46+03:00]: 2001 rows loaded
+[2018-02-03T12:08:59+03:00]: BTC: cache file exists
+[2018-02-03T12:08:59+03:00]: 2001 rows loaded
+[2018-02-03T12:10:43+03:00]: 5285 XEM: no cache file present
+[2018-02-03T12:10:43+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XEM&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T12:10:44+03:00]: 2001 rows retrieved from API
+[2018-02-03T12:10:44+03:00]: 2001 rows loaded
+[2018-02-03T13:43:27+03:00]: BTC: cache file exists
+[2018-02-03T13:43:27+03:00]: 2001 rows loaded
+[2018-02-03T14:23:37+03:00]: BTC: cache file exists
+[2018-02-03T14:23:37+03:00]: 2001 rows loaded
+[2018-02-03T14:39:13+03:00]: BTC: cache file exists
+[2018-02-03T14:39:13+03:00]: 2001 rows loaded
+[2018-02-03T15:13:45+03:00]: BTC: cache file exists
+[2018-02-03T15:13:45+03:00]: 2001 rows loaded
+[2018-02-03T15:56:40+03:00]: BTC: cache file exists
+[2018-02-03T15:56:40+03:00]: 2001 rows loaded
+[2018-02-03T16:16:21+03:00]: BTC: cache file exists
+[2018-02-03T16:16:21+03:00]: 2001 rows loaded
+[2018-02-03T16:48:28+03:00]: BTC: cache file exists
+[2018-02-03T16:48:28+03:00]: 2001 rows loaded
+[2018-02-03T18:02:01+03:00]: BTC: cache file exists
+[2018-02-03T18:02:01+03:00]: 2001 rows loaded
+[2018-02-03T18:09:08+03:00]: BTC: cache file exists
+[2018-02-03T18:09:08+03:00]: 2001 rows loaded
+[2018-02-03T18:10:19+03:00]: BTC: cache file exists
+[2018-02-03T18:10:19+03:00]: 2001 rows loaded
+[2018-02-03T18:10:30+03:00]: BTC: cache file exists
+[2018-02-03T18:10:30+03:00]: 2001 rows loaded
+[2018-02-03T18:13:48+03:00]: BTC: cache file exists
+[2018-02-03T18:13:48+03:00]: 2001 rows loaded
+[2018-02-03T18:16:35+03:00]: BTC: cache file exists
+[2018-02-03T18:16:35+03:00]: 2001 rows loaded
+[2018-02-03T18:16:53+03:00]: BTC: cache file exists
+[2018-02-03T18:16:53+03:00]: 2001 rows loaded
+[2018-02-03T19:07:42+03:00]: BTC: cache file exists
+[2018-02-03T19:07:42+03:00]: 2001 rows loaded
+[2018-02-03T19:09:13+03:00]: BTC: cache file exists
+[2018-02-03T19:09:13+03:00]: 2001 rows loaded
+[2018-02-03T19:34:54+03:00]: BTC: cache file exists
+[2018-02-03T19:34:54+03:00]: 2001 rows loaded
+[2018-02-03T19:58:55+03:00]: BTC: cache file exists
+[2018-02-03T19:58:55+03:00]: 2001 rows loaded
+[2018-02-03T21:50:02+03:00]: BTC: cache file exists
+[2018-02-03T21:50:02+03:00]: 2001 rows loaded
+[2018-02-03T21:50:14+03:00]: 3808 LTC: no cache file present
+[2018-02-03T21:50:14+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T21:50:15+03:00]: 0 rows loaded
+[2018-02-03T21:50:25+03:00]: 20196 DSH: no cache file present
+[2018-02-03T21:50:25+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DSH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T21:50:25+03:00]: 2001 rows retrieved from API
+[2018-02-03T21:50:25+03:00]: 2001 rows loaded
+[2018-02-03T21:52:04+03:00]: 3807 DASH: no cache file present
+[2018-02-03T21:52:04+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DASH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T21:52:05+03:00]: 2001 rows retrieved from API
+[2018-02-03T21:52:05+03:00]: 2001 rows loaded
+[2018-02-03T21:56:24+03:00]: BTC: cache file exists
+[2018-02-03T21:56:24+03:00]: 2001 rows loaded
+[2018-02-03T22:08:51+03:00]: BTC: cache file exists
+[2018-02-03T22:08:51+03:00]: 2001 rows loaded
+[2018-02-03T22:30:45+03:00]: BTC: cache file exists
+[2018-02-03T22:30:45+03:00]: 2001 rows loaded
+[2018-02-03T23:25:57+03:00]: 1182 BTC: no cache file present
+[2018-02-03T23:25:57+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T23:25:58+03:00]: 2001 rows retrieved from API
+[2018-02-03T23:25:58+03:00]: 2001 rows loaded
+[2018-02-03T23:26:22+03:00]: 27368 NEO: no cache file present
+[2018-02-03T23:26:22+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=NEO&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T23:26:23+03:00]: 2001 rows retrieved from API
+[2018-02-03T23:26:23+03:00]: 2001 rows loaded
+[2018-02-03T23:26:49+03:00]: 402714 QASH: no cache file present
+[2018-02-03T23:26:49+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=QASH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T23:26:49+03:00]: 2001 rows retrieved from API
+[2018-02-03T23:26:49+03:00]: 2001 rows loaded
+[2018-02-03T23:27:22+03:00]: 5031 XRP: no cache file present
+[2018-02-03T23:27:22+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XRP&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T23:27:22+03:00]: 2001 rows retrieved from API
+[2018-02-03T23:27:22+03:00]: 2001 rows loaded
+[2018-02-03T23:28:02+03:00]: 7605 ETH: no cache file present
+[2018-02-03T23:28:02+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-03T23:28:03+03:00]: 2001 rows retrieved from API
+[2018-02-03T23:28:03+03:00]: 2001 rows loaded
+[2018-02-03T23:31:51+03:00]: BTC: cache file exists
+[2018-02-03T23:31:51+03:00]: 2001 rows loaded
+[2018-02-03T23:32:11+03:00]: BTC: cache file exists
+[2018-02-03T23:32:11+03:00]: 2001 rows loaded
+[2018-02-04T01:08:02+03:00]: BTC: cache file exists
+[2018-02-04T01:08:02+03:00]: 2001 rows loaded
+[2018-02-04T01:08:47+03:00]: BTC: cache file exists
+[2018-02-04T01:08:47+03:00]: 2001 rows loaded
+[2018-02-04T02:28:50+03:00]: BTC: cache file exists
+[2018-02-04T02:28:50+03:00]: 2001 rows loaded
+[2018-02-04T03:36:03+03:00]: BTC: cache file exists
+[2018-02-04T03:36:03+03:00]: 2001 rows loaded
+[2018-02-04T09:23:58+03:00]: BTC: cache file exists
+[2018-02-04T09:23:58+03:00]: 2001 rows loaded
+[2018-02-04T09:25:02+03:00]: ETH: cache file exists
+[2018-02-04T09:25:02+03:00]: 2001 rows loaded
+[2018-02-04T09:32:36+03:00]: BTC: cache file exists
+[2018-02-04T09:32:36+03:00]: 2001 rows loaded
+[2018-02-04T10:26:19+03:00]: BTC: cache file exists
+[2018-02-04T10:26:19+03:00]: 2001 rows loaded
+[2018-02-04T11:12:19+03:00]: BTC: cache file exists
+[2018-02-04T11:12:19+03:00]: 2001 rows loaded
+[2018-02-04T11:12:28+03:00]: 3808 LTC: no cache file present
+[2018-02-04T11:12:28+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:12:28+03:00]: 0 rows loaded
+[2018-02-04T11:12:39+03:00]: 3807 DASH: no cache file present
+[2018-02-04T11:12:39+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DASH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:12:39+03:00]: 0 rows loaded
+[2018-02-04T11:12:45+03:00]: 3808 LTC: no cache file present
+[2018-02-04T11:12:45+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:12:45+03:00]: 2001 rows retrieved from API
+[2018-02-04T11:12:48+03:00]: 2001 rows loaded
+[2018-02-04T11:18:38+03:00]: 3807 DASH: no cache file present
+[2018-02-04T11:18:38+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=DASH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:18:39+03:00]: 2001 rows retrieved from API
+[2018-02-04T11:18:39+03:00]: 2001 rows loaded
+[2018-02-04T11:18:49+03:00]: 202330 BCH: no cache file present
+[2018-02-04T11:18:49+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BCH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:18:49+03:00]: 2001 rows retrieved from API
+[2018-02-04T11:18:52+03:00]: 2001 rows loaded
+[2018-02-04T11:46:00+03:00]: 1182 BTC: no cache file present
+[2018-02-04T11:46:00+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:46:01+03:00]: 0 rows loaded
+[2018-02-04T11:58:16+03:00]: 1182 BTC: no cache file present
+[2018-02-04T11:58:16+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:58:17+03:00]: 0 rows loaded
+[2018-02-04T11:59:23+03:00]: 1182 BTC: no cache file present
+[2018-02-04T11:59:23+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:59:24+03:00]: 0 rows loaded
+[2018-02-04T11:59:48+03:00]: 1182 BTC: no cache file present
+[2018-02-04T11:59:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T11:59:49+03:00]: 0 rows loaded
+[2018-02-04T12:04:17+03:00]: 1182 BTC: no cache file present
+[2018-02-04T12:04:17+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-04T12:04:17+03:00]: 2001 rows retrieved from API
+[2018-02-04T12:04:17+03:00]: 2001 rows loaded
+[2018-02-04T12:23:11+03:00]: BTC: cache file exists
+[2018-02-04T12:23:11+03:00]: 2001 rows loaded
+[2018-02-04T12:51:38+03:00]: BTC: cache file exists
+[2018-02-04T12:51:38+03:00]: 2001 rows loaded
+[2018-02-04T13:21:09+03:00]: BTC: cache file exists
+[2018-02-04T13:21:09+03:00]: 2001 rows loaded
+[2018-02-04T16:55:17+03:00]: BTC: cache file exists
+[2018-02-04T16:55:17+03:00]: 2001 rows loaded
+[2018-02-04T16:59:14+03:00]: BTC: cache file exists
+[2018-02-04T16:59:14+03:00]: 2001 rows loaded
+[2018-02-04T17:13:00+03:00]: BTC: cache file exists
+[2018-02-04T17:13:00+03:00]: 2001 rows loaded
+[2018-02-04T18:02:18+03:00]: BTC: cache file exists
+[2018-02-04T18:02:18+03:00]: 2001 rows loaded
+[2018-02-04T19:04:20+03:00]: BTC: cache file exists
+[2018-02-04T19:04:20+03:00]: 2001 rows loaded
+[2018-02-04T20:17:14+03:00]: BTC: cache file exists
+[2018-02-04T20:17:14+03:00]: 2001 rows loaded
+[2018-02-04T21:21:17+03:00]: BTC: cache file exists
+[2018-02-04T21:21:17+03:00]: 2001 rows loaded
+[2018-02-04T21:32:26+03:00]: BTC: cache file exists
+[2018-02-04T21:32:26+03:00]: 2001 rows loaded
+[2018-02-04T22:09:15+03:00]: BTC: cache file exists
+[2018-02-04T22:09:15+03:00]: 2001 rows loaded
+[2018-02-04T22:44:30+03:00]: BTC: cache file exists
+[2018-02-04T22:44:30+03:00]: 2001 rows loaded
+[2018-02-04T23:01:53+03:00]: BTC: cache file exists
+[2018-02-04T23:01:53+03:00]: 2001 rows loaded
+[2018-02-05T00:01:19+03:00]: BTC: cache file exists
+[2018-02-05T00:01:19+03:00]: 2001 rows loaded
+[2018-02-05T00:16:48+03:00]: 1182 BTC: no cache file present
+[2018-02-05T00:16:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T00:16:49+03:00]: 2001 rows retrieved from API
+[2018-02-05T00:16:49+03:00]: 2001 rows loaded
+[2018-02-05T00:41:23+03:00]: BTC: cache file exists
+[2018-02-05T00:41:23+03:00]: 2001 rows loaded
+[2018-02-05T00:44:06+03:00]: 7605 ETH: no cache file present
+[2018-02-05T00:44:06+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=ETH&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T00:44:08+03:00]: 2001 rows retrieved from API
+[2018-02-05T00:44:08+03:00]: 2001 rows loaded
+[2018-02-05T00:47:03+03:00]: BTC: cache file exists
+[2018-02-05T00:47:03+03:00]: 2001 rows loaded
+[2018-02-05T00:47:03+03:00]: BTC: cache file exists
+[2018-02-05T00:47:03+03:00]: 2001 rows loaded
+[2018-02-05T07:48:32+03:00]: BTC: cache file exists
+[2018-02-05T07:48:32+03:00]: 2001 rows loaded
+[2018-02-05T07:48:58+03:00]: 310812 SUMO: no cache file present
+[2018-02-05T07:48:58+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=SUMO&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T07:48:58+03:00]: 2001 rows retrieved from API
+[2018-02-05T07:48:59+03:00]: 2001 rows loaded
+[2018-02-05T08:38:22+03:00]: BTC: cache file exists
+[2018-02-05T08:38:22+03:00]: 2001 rows loaded
+[2018-02-05T08:39:41+03:00]: ETH: cache file exists
+[2018-02-05T08:39:41+03:00]: 2001 rows loaded
+[2018-02-05T10:24:10+03:00]: BTC: cache file exists
+[2018-02-05T10:24:10+03:00]: 2001 rows loaded
+[2018-02-05T10:24:45+03:00]: 20214 GBT: no cache file present
+[2018-02-05T10:24:45+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=GBT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T10:24:46+03:00]: 2001 rows retrieved from API
+[2018-02-05T10:24:46+03:00]: 2001 rows loaded
+[2018-02-05T12:05:15+03:00]: BTC: cache file exists
+[2018-02-05T12:05:15+03:00]: 2001 rows loaded
+[2018-02-05T12:06:05+03:00]: BTC: cache file exists
+[2018-02-05T12:06:05+03:00]: 2001 rows loaded
+[2018-02-05T12:06:48+03:00]: 27368 NEO: no cache file present
+[2018-02-05T12:06:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=NEO&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:06:48+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:06:48+03:00]: 2001 rows loaded
+[2018-02-05T12:06:53+03:00]: BTC: cache file exists
+[2018-02-05T12:06:53+03:00]: 2001 rows loaded
+[2018-02-05T12:07:01+03:00]: 171986 USDT: no cache file present
+[2018-02-05T12:07:01+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=USDT&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:07:02+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:07:02+03:00]: 2001 rows loaded
+[2018-02-05T12:07:29+03:00]: 5031 XRP: no cache file present
+[2018-02-05T12:07:29+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XRP&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:07:29+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:07:29+03:00]: 2001 rows loaded
+[2018-02-05T12:13:52+03:00]: BTC: cache file exists
+[2018-02-05T12:13:52+03:00]: 2001 rows loaded
+[2018-02-05T12:16:13+03:00]: BTC: cache file exists
+[2018-02-05T12:16:13+03:00]: 2001 rows loaded
+[2018-02-05T12:16:39+03:00]: XRP: cache file exists
+[2018-02-05T12:16:39+03:00]: 2001 rows loaded
+[2018-02-05T12:16:51+03:00]: 4339 BLK: no cache file present
+[2018-02-05T12:16:51+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BLK&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:16:52+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:16:52+03:00]: 2001 rows loaded
+[2018-02-05T12:16:59+03:00]: 5038 XMR: no cache file present
+[2018-02-05T12:16:59+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XMR&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:16:59+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:16:59+03:00]: 2001 rows loaded
+[2018-02-05T12:18:03+03:00]: 3808 LTC: no cache file present
+[2018-02-05T12:18:03+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=LTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:18:04+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:18:04+03:00]: 2001 rows loaded
+[2018-02-05T12:50:29+03:00]: 1182 BTC: no cache file present
+[2018-02-05T12:50:29+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-05T12:50:30+03:00]: 2001 rows retrieved from API
+[2018-02-05T12:50:30+03:00]: 2001 rows loaded
+[2018-02-05T12:58:17+03:00]: BTC: cache file exists
+[2018-02-05T12:58:17+03:00]: 2001 rows loaded
+[2018-02-05T13:09:31+03:00]: BTC: cache file exists
+[2018-02-05T13:09:31+03:00]: 2001 rows loaded
+[2018-02-05T13:22:56+03:00]: BTC: cache file exists
+[2018-02-05T13:22:56+03:00]: 2001 rows loaded
+[2018-02-05T13:23:17+03:00]: BTC: cache file exists
+[2018-02-05T13:23:17+03:00]: 2001 rows loaded
+[2018-02-05T13:28:50+03:00]: BTC: cache file exists
+[2018-02-05T13:28:50+03:00]: 2001 rows loaded
+[2018-02-05T13:31:17+03:00]: BTC: cache file exists
+[2018-02-05T13:31:17+03:00]: 2001 rows loaded
+[2018-02-05T13:31:51+03:00]: BTC: cache file exists
+[2018-02-05T13:31:51+03:00]: 2001 rows loaded
+[2018-02-05T13:32:21+03:00]: BTC: cache file exists
+[2018-02-05T13:32:21+03:00]: 2001 rows loaded
+[2018-02-05T13:33:45+03:00]: BTC: cache file exists
+[2018-02-05T13:33:45+03:00]: 2001 rows loaded
+[2018-02-05T13:34:30+03:00]: BTC: cache file exists
+[2018-02-05T13:34:30+03:00]: 2001 rows loaded
+[2018-02-05T13:35:41+03:00]: BTC: cache file exists
+[2018-02-05T13:35:41+03:00]: 2001 rows loaded
+[2018-02-05T13:38:08+03:00]: BTC: cache file exists
+[2018-02-05T13:38:08+03:00]: 2001 rows loaded
+[2018-02-05T13:38:28+03:00]: BTC: cache file exists
+[2018-02-05T13:38:28+03:00]: 2001 rows loaded
+[2018-02-05T13:39:07+03:00]: BTC: cache file exists
+[2018-02-05T13:39:07+03:00]: 2001 rows loaded
+[2018-02-05T13:39:28+03:00]: BTC: cache file exists
+[2018-02-05T13:39:28+03:00]: 2001 rows loaded
+[2018-02-05T13:43:08+03:00]: BTC: cache file exists
+[2018-02-05T13:43:08+03:00]: 2001 rows loaded
+[2018-02-05T13:49:02+03:00]: BTC: cache file exists
+[2018-02-05T13:49:02+03:00]: 2001 rows loaded
+[2018-02-05T13:50:20+03:00]: BTC: cache file exists
+[2018-02-05T13:50:20+03:00]: 2001 rows loaded
+[2018-02-05T13:50:57+03:00]: BTC: cache file exists
+[2018-02-05T13:50:57+03:00]: 2001 rows loaded
+[2018-02-05T13:52:52+03:00]: BTC: cache file exists
+[2018-02-05T13:52:52+03:00]: 2001 rows loaded
+[2018-02-05T14:26:27+03:00]: BTC: cache file exists
+[2018-02-05T14:26:27+03:00]: 2001 rows loaded
+[2018-02-05T14:27:26+03:00]: BTC: cache file exists
+[2018-02-05T14:27:26+03:00]: 2001 rows loaded
+[2018-02-05T14:28:34+03:00]: BTC: cache file exists
+[2018-02-05T14:28:34+03:00]: 2001 rows loaded
+[2018-02-05T14:29:36+03:00]: BTC: cache file exists
+[2018-02-05T14:29:36+03:00]: 2001 rows loaded
+[2018-02-05T14:30:07+03:00]: BTC: cache file exists
+[2018-02-05T14:30:07+03:00]: 2001 rows loaded
+[2018-02-05T14:36:15+03:00]: BTC: cache file exists
+[2018-02-05T14:36:15+03:00]: 2001 rows loaded
+[2018-02-05T14:36:58+03:00]: BTC: cache file exists
+[2018-02-05T14:36:58+03:00]: 2001 rows loaded
+[2018-02-05T14:41:28+03:00]: BTC: cache file exists
+[2018-02-05T14:41:28+03:00]: 2001 rows loaded
+[2018-02-05T14:46:34+03:00]: BTC: cache file exists
+[2018-02-05T14:46:34+03:00]: 2001 rows loaded
+[2018-02-05T14:50:49+03:00]: BTC: cache file exists
+[2018-02-05T14:50:49+03:00]: 2001 rows loaded
+[2018-02-05T14:51:31+03:00]: BTC: cache file exists
+[2018-02-05T14:51:31+03:00]: 2001 rows loaded
+[2018-02-05T14:51:56+03:00]: BTC: cache file exists
+[2018-02-05T14:51:56+03:00]: 2001 rows loaded
+[2018-02-05T14:52:04+03:00]: BTC: cache file exists
+[2018-02-05T14:52:04+03:00]: 2001 rows loaded
+[2018-02-05T14:53:47+03:00]: BTC: cache file exists
+[2018-02-05T14:53:47+03:00]: 2001 rows loaded
+[2018-02-05T14:57:26+03:00]: BTC: cache file exists
+[2018-02-05T14:57:26+03:00]: 2001 rows loaded
+[2018-02-05T14:58:33+03:00]: BTC: cache file exists
+[2018-02-05T14:58:33+03:00]: 2001 rows loaded
+[2018-02-05T15:00:47+03:00]: BTC: cache file exists
+[2018-02-05T15:00:47+03:00]: 2001 rows loaded
+[2018-02-05T15:07:13+03:00]: BTC: cache file exists
+[2018-02-05T15:07:13+03:00]: 2001 rows loaded
+[2018-02-05T15:08:10+03:00]: BTC: cache file exists
+[2018-02-05T15:08:10+03:00]: 2001 rows loaded
+[2018-02-05T15:11:36+03:00]: BTC: cache file exists
+[2018-02-05T15:11:36+03:00]: 2001 rows loaded
+[2018-02-05T15:16:53+03:00]: BTC: cache file exists
+[2018-02-05T15:16:53+03:00]: 2001 rows loaded
+[2018-02-05T15:27:26+03:00]: BTC: cache file exists
+[2018-02-05T15:27:26+03:00]: 2001 rows loaded
+[2018-02-05T15:29:22+03:00]: BTC: cache file exists
+[2018-02-05T15:29:22+03:00]: 2001 rows loaded
+[2018-02-05T15:30:48+03:00]: BTC: cache file exists
+[2018-02-05T15:30:48+03:00]: 2001 rows loaded
+[2018-02-05T15:31:47+03:00]: BTC: cache file exists
+[2018-02-05T15:31:47+03:00]: 2001 rows loaded
+[2018-02-05T15:32:32+03:00]: BTC: cache file exists
+[2018-02-05T15:32:32+03:00]: 2001 rows loaded
+[2018-02-05T15:38:30+03:00]: BTC: cache file exists
+[2018-02-05T15:38:30+03:00]: 2001 rows loaded
+[2018-02-05T15:39:12+03:00]: BTC: cache file exists
+[2018-02-05T15:39:12+03:00]: 2001 rows loaded
+[2018-02-05T15:40:16+03:00]: BTC: cache file exists
+[2018-02-05T15:40:16+03:00]: 2001 rows loaded
+[2018-02-05T15:42:07+03:00]: BTC: cache file exists
+[2018-02-05T15:42:07+03:00]: 2001 rows loaded
+[2018-02-05T15:54:37+03:00]: BTC: cache file exists
+[2018-02-05T15:54:37+03:00]: 2001 rows loaded
+[2018-02-05T15:56:52+03:00]: BTC: cache file exists
+[2018-02-05T15:56:52+03:00]: 2001 rows loaded
+[2018-02-05T16:46:14+03:00]: BTC: cache file exists
+[2018-02-05T16:46:14+03:00]: 2001 rows loaded
+[2018-02-05T16:49:00+03:00]: BTC: cache file exists
+[2018-02-05T16:49:00+03:00]: 2001 rows loaded
+[2018-02-05T16:52:48+03:00]: BTC: cache file exists
+[2018-02-05T16:52:48+03:00]: 2001 rows loaded
+[2018-02-05T17:02:04+03:00]: BTC: cache file exists
+[2018-02-05T17:02:04+03:00]: 2001 rows loaded
+[2018-02-05T17:16:37+03:00]: BTC: cache file exists
+[2018-02-05T17:16:37+03:00]: 2001 rows loaded
+[2018-02-05T17:21:39+03:00]: BTC: cache file exists
+[2018-02-05T17:21:39+03:00]: 2001 rows loaded
+[2018-02-05T17:36:22+03:00]: BTC: cache file exists
+[2018-02-05T17:36:22+03:00]: 2001 rows loaded
+[2018-02-05T17:46:38+03:00]: BTC: cache file exists
+[2018-02-05T17:46:38+03:00]: 2001 rows loaded
+[2018-02-05T18:40:42+03:00]: BTC: cache file exists
+[2018-02-05T18:40:42+03:00]: 2001 rows loaded
+[2018-02-05T18:45:02+03:00]: BTC: cache file exists
+[2018-02-05T18:45:02+03:00]: 2001 rows loaded
+[2018-02-05T18:58:22+03:00]: BTC: cache file exists
+[2018-02-05T18:58:22+03:00]: 2001 rows loaded
+[2018-02-05T19:20:05+03:00]: BTC: cache file exists
+[2018-02-05T19:20:05+03:00]: 2001 rows loaded
+[2018-02-05T19:27:25+03:00]: BTC: cache file exists
+[2018-02-05T19:27:25+03:00]: 2001 rows loaded
+[2018-02-05T19:27:38+03:00]: BTC: cache file exists
+[2018-02-05T19:27:38+03:00]: 2001 rows loaded
+[2018-02-05T19:28:43+03:00]: BTC: cache file exists
+[2018-02-05T19:28:43+03:00]: 2001 rows loaded
+[2018-02-05T19:29:09+03:00]: BTC: cache file exists
+[2018-02-05T19:29:09+03:00]: 2001 rows loaded
+[2018-02-05T19:32:09+03:00]: BTC: cache file exists
+[2018-02-05T19:32:09+03:00]: 2001 rows loaded
+[2018-02-05T19:37:01+03:00]: BTC: cache file exists
+[2018-02-05T19:37:01+03:00]: 2001 rows loaded
+[2018-02-05T19:47:03+03:00]: BTC: cache file exists
+[2018-02-05T19:47:03+03:00]: 2001 rows loaded
+[2018-02-05T19:47:52+03:00]: BTC: cache file exists
+[2018-02-05T19:47:52+03:00]: 2001 rows loaded
+[2018-02-05T19:48:30+03:00]: BTC: cache file exists
+[2018-02-05T19:48:30+03:00]: 2001 rows loaded
+[2018-02-05T19:50:35+03:00]: BTC: cache file exists
+[2018-02-05T19:50:35+03:00]: 2001 rows loaded
+[2018-02-05T19:52:57+03:00]: BTC: cache file exists
+[2018-02-05T19:52:57+03:00]: 2001 rows loaded
+[2018-02-05T19:57:34+03:00]: BTC: cache file exists
+[2018-02-05T19:57:34+03:00]: 2001 rows loaded
+[2018-02-05T20:01:47+03:00]: BTC: cache file exists
+[2018-02-05T20:01:47+03:00]: 2001 rows loaded
+[2018-02-05T20:03:30+03:00]: BTC: cache file exists
+[2018-02-05T20:03:30+03:00]: 2001 rows loaded
+[2018-02-05T20:05:20+03:00]: BTC: cache file exists
+[2018-02-05T20:05:20+03:00]: 2001 rows loaded
+[2018-02-05T20:07:02+03:00]: BTC: cache file exists
+[2018-02-05T20:07:02+03:00]: 2001 rows loaded
+[2018-02-05T20:07:16+03:00]: BTC: cache file exists
+[2018-02-05T20:07:16+03:00]: 2001 rows loaded
+[2018-02-05T20:07:19+03:00]: BTC: cache file exists
+[2018-02-05T20:07:19+03:00]: 2001 rows loaded
+[2018-02-05T20:07:41+03:00]: BTC: cache file exists
+[2018-02-05T20:07:41+03:00]: 2001 rows loaded
+[2018-02-05T20:09:26+03:00]: BTC: cache file exists
+[2018-02-05T20:09:26+03:00]: 2001 rows loaded
+[2018-02-05T20:11:38+03:00]: BTC: cache file exists
+[2018-02-05T20:11:38+03:00]: 2001 rows loaded
+[2018-02-05T20:14:28+03:00]: BTC: cache file exists
+[2018-02-05T20:14:28+03:00]: 2001 rows loaded
+[2018-02-05T20:16:35+03:00]: BTC: cache file exists
+[2018-02-05T20:16:35+03:00]: 2001 rows loaded
+[2018-02-05T20:17:52+03:00]: BTC: cache file exists
+[2018-02-05T20:17:52+03:00]: 2001 rows loaded
+[2018-02-05T20:18:43+03:00]: BTC: cache file exists
+[2018-02-05T20:18:43+03:00]: 2001 rows loaded
+[2018-02-05T20:20:04+03:00]: BTC: cache file exists
+[2018-02-05T20:20:04+03:00]: 2001 rows loaded
+[2018-02-05T20:20:43+03:00]: BTC: cache file exists
+[2018-02-05T20:20:43+03:00]: 2001 rows loaded
+[2018-02-05T20:25:07+03:00]: BTC: cache file exists
+[2018-02-05T20:25:07+03:00]: 2001 rows loaded
+[2018-02-05T20:26:34+03:00]: BTC: cache file exists
+[2018-02-05T20:26:34+03:00]: 2001 rows loaded
+[2018-02-05T20:27:40+03:00]: BTC: cache file exists
+[2018-02-05T20:27:40+03:00]: 2001 rows loaded
+[2018-02-05T20:27:40+03:00]: BTC: cache file exists
+[2018-02-05T20:27:40+03:00]: 2001 rows loaded
+[2018-02-05T20:27:43+03:00]: BTC: cache file exists
+[2018-02-05T20:27:43+03:00]: 2001 rows loaded
+[2018-02-05T20:27:45+03:00]: BTC: cache file exists
+[2018-02-05T20:27:45+03:00]: 2001 rows loaded
+[2018-02-05T20:31:50+03:00]: BTC: cache file exists
+[2018-02-05T20:31:50+03:00]: 2001 rows loaded
+[2018-02-05T20:41:58+03:00]: BTC: cache file exists
+[2018-02-05T20:41:58+03:00]: 2001 rows loaded
+[2018-02-05T21:01:29+03:00]: BTC: cache file exists
+[2018-02-05T21:01:29+03:00]: 2001 rows loaded
+[2018-02-05T21:41:51+03:00]: BTC: cache file exists
+[2018-02-05T21:41:51+03:00]: 2001 rows loaded
+[2018-02-05T21:44:47+03:00]: BTC: cache file exists
+[2018-02-05T21:44:47+03:00]: 2001 rows loaded
+[2018-02-05T21:45:19+03:00]: BTC: cache file exists
+[2018-02-05T21:45:19+03:00]: 2001 rows loaded
+[2018-02-05T21:46:11+03:00]: BTC: cache file exists
+[2018-02-05T21:46:11+03:00]: 2001 rows loaded
+[2018-02-05T21:47:51+03:00]: BTC: cache file exists
+[2018-02-05T21:47:51+03:00]: 2001 rows loaded
+[2018-02-05T21:48:19+03:00]: BTC: cache file exists
+[2018-02-05T21:48:19+03:00]: 2001 rows loaded
+[2018-02-05T21:48:38+03:00]: BTC: cache file exists
+[2018-02-05T21:48:38+03:00]: 2001 rows loaded
+[2018-02-05T21:48:43+03:00]: BTC: cache file exists
+[2018-02-05T21:48:43+03:00]: 2001 rows loaded
+[2018-02-05T21:56:37+03:00]: BTC: cache file exists
+[2018-02-05T21:56:37+03:00]: 2001 rows loaded
+[2018-02-05T22:01:17+03:00]: BTC: cache file exists
+[2018-02-05T22:01:17+03:00]: 2001 rows loaded
+[2018-02-05T22:01:25+03:00]: BTC: cache file exists
+[2018-02-05T22:01:25+03:00]: 2001 rows loaded
+[2018-02-05T22:01:43+03:00]: BTC: cache file exists
+[2018-02-05T22:01:43+03:00]: 2001 rows loaded
+[2018-02-05T22:15:02+03:00]: BTC: cache file exists
+[2018-02-05T22:15:02+03:00]: 2001 rows loaded
+[2018-02-05T22:15:45+03:00]: BTC: cache file exists
+[2018-02-05T22:15:45+03:00]: 2001 rows loaded
+[2018-02-05T22:16:33+03:00]: BTC: cache file exists
+[2018-02-05T22:16:33+03:00]: 2001 rows loaded
+[2018-02-05T22:17:08+03:00]: BTC: cache file exists
+[2018-02-05T22:17:08+03:00]: 2001 rows loaded
+[2018-02-05T22:18:19+03:00]: BTC: cache file exists
+[2018-02-05T22:18:19+03:00]: 2001 rows loaded
+[2018-02-05T22:19:13+03:00]: BTC: cache file exists
+[2018-02-05T22:19:13+03:00]: 2001 rows loaded
+[2018-02-05T22:20:08+03:00]: BTC: cache file exists
+[2018-02-05T22:20:08+03:00]: 2001 rows loaded
+[2018-02-05T22:38:56+03:00]: BTC: cache file exists
+[2018-02-05T22:38:56+03:00]: 2001 rows loaded
+[2018-02-05T22:48:48+03:00]: BTC: cache file exists
+[2018-02-05T22:48:48+03:00]: 2001 rows loaded
+[2018-02-05T22:49:01+03:00]: BTC: cache file exists
+[2018-02-05T22:49:01+03:00]: 2001 rows loaded
+[2018-02-05T22:49:23+03:00]: BTC: cache file exists
+[2018-02-05T22:49:23+03:00]: 2001 rows loaded
+[2018-02-05T22:49:31+03:00]: BTC: cache file exists
+[2018-02-05T22:49:31+03:00]: 2001 rows loaded
+[2018-02-05T22:49:53+03:00]: BTC: cache file exists
+[2018-02-05T22:49:53+03:00]: 2001 rows loaded
+[2018-02-05T22:52:21+03:00]: BTC: cache file exists
+[2018-02-05T22:52:21+03:00]: 2001 rows loaded
+[2018-02-05T22:54:09+03:00]: BTC: cache file exists
+[2018-02-05T22:54:09+03:00]: 2001 rows loaded
+[2018-02-05T22:58:02+03:00]: BTC: cache file exists
+[2018-02-05T22:58:02+03:00]: 2001 rows loaded
+[2018-02-05T23:18:59+03:00]: BTC: cache file exists
+[2018-02-05T23:18:59+03:00]: 2001 rows loaded
+[2018-02-06T00:11:50+03:00]: BTC: cache file exists
+[2018-02-06T00:11:50+03:00]: 2001 rows loaded
+[2018-02-06T00:16:03+03:00]: BTC: cache file exists
+[2018-02-06T00:16:03+03:00]: 2001 rows loaded
+[2018-02-06T01:33:34+03:00]: 1182 BTC: no cache file present
+[2018-02-06T01:33:34+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-06T01:33:35+03:00]: 2001 rows retrieved from API
+[2018-02-06T01:33:35+03:00]: 2001 rows loaded
+[2018-02-06T03:26:22+03:00]: BTC: cache file exists
+[2018-02-06T03:26:22+03:00]: 2001 rows loaded
+[2018-02-06T06:00:26+03:00]: BTC: cache file exists
+[2018-02-06T06:00:26+03:00]: 2001 rows loaded
+[2018-02-06T08:29:03+03:00]: BTC: cache file exists
+[2018-02-06T08:29:03+03:00]: 2001 rows loaded
+[2018-02-06T09:03:16+03:00]: BTC: cache file exists
+[2018-02-06T09:03:16+03:00]: 2001 rows loaded
+[2018-02-06T09:03:59+03:00]: BTC: cache file exists
+[2018-02-06T09:03:59+03:00]: 2001 rows loaded
+[2018-02-06T10:56:38+03:00]: BTC: cache file exists
+[2018-02-06T10:56:38+03:00]: 2001 rows loaded
+[2018-02-06T12:46:21+03:00]: BTC: cache file exists
+[2018-02-06T12:46:21+03:00]: 2001 rows loaded
+[2018-02-06T14:07:17+03:00]: 1182 BTC: no cache file present
+[2018-02-06T14:07:17+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-06T14:07:18+03:00]: 2001 rows retrieved from API
+[2018-02-06T14:07:18+03:00]: 2001 rows loaded
+[2018-02-06T15:00:22+03:00]: BTC: cache file exists
+[2018-02-06T15:00:22+03:00]: 2001 rows loaded
+[2018-02-06T16:38:46+03:00]: BTC: cache file exists
+[2018-02-06T16:38:46+03:00]: 2001 rows loaded
+[2018-02-06T16:43:35+03:00]: BTC: cache file exists
+[2018-02-06T16:43:35+03:00]: 2001 rows loaded
+[2018-02-06T17:01:45+03:00]: BTC: cache file exists
+[2018-02-06T17:01:45+03:00]: 2001 rows loaded
+[2018-02-06T17:04:13+03:00]: BTC: cache file exists
+[2018-02-06T17:04:13+03:00]: 2001 rows loaded
+[2018-02-06T17:09:19+03:00]: BTC: cache file exists
+[2018-02-06T17:09:19+03:00]: 2001 rows loaded
+[2018-02-06T17:15:54+03:00]: BTC: cache file exists
+[2018-02-06T17:15:54+03:00]: 2001 rows loaded
+[2018-02-06T17:19:31+03:00]: BTC: cache file exists
+[2018-02-06T17:19:31+03:00]: 2001 rows loaded
+[2018-02-06T17:24:45+03:00]: BTC: cache file exists
+[2018-02-06T17:24:45+03:00]: 2001 rows loaded
+[2018-02-06T17:28:38+03:00]: BTC: cache file exists
+[2018-02-06T17:28:38+03:00]: 2001 rows loaded
+[2018-02-06T17:30:09+03:00]: BTC: cache file exists
+[2018-02-06T17:30:09+03:00]: 2001 rows loaded
+[2018-02-06T17:30:27+03:00]: BTC: cache file exists
+[2018-02-06T17:30:27+03:00]: 2001 rows loaded
+[2018-02-06T17:30:47+03:00]: BTC: cache file exists
+[2018-02-06T17:30:47+03:00]: 2001 rows loaded
+[2018-02-06T17:40:35+03:00]: BTC: cache file exists
+[2018-02-06T17:40:35+03:00]: 2001 rows loaded
+[2018-02-06T17:43:08+03:00]: BTC: cache file exists
+[2018-02-06T17:43:08+03:00]: 2001 rows loaded
+[2018-02-06T17:43:27+03:00]: BTC: cache file exists
+[2018-02-06T17:43:27+03:00]: 2001 rows loaded
+[2018-02-06T17:44:06+03:00]: BTC: cache file exists
+[2018-02-06T17:44:06+03:00]: 2001 rows loaded
+[2018-02-06T17:44:12+03:00]: BTC: cache file exists
+[2018-02-06T17:44:12+03:00]: 2001 rows loaded
+[2018-02-06T17:44:16+03:00]: BTC: cache file exists
+[2018-02-06T17:44:16+03:00]: 2001 rows loaded
+[2018-02-06T21:03:15+03:00]: BTC: cache file exists
+[2018-02-06T21:03:15+03:00]: 2001 rows loaded
+[2018-02-06T21:08:01+03:00]: BTC: cache file exists
+[2018-02-06T21:08:01+03:00]: 2001 rows loaded
+[2018-02-06T21:22:02+03:00]: BTC: cache file exists
+[2018-02-06T21:22:02+03:00]: 2001 rows loaded
+[2018-02-06T21:23:57+03:00]: BTC: cache file exists
+[2018-02-06T21:23:57+03:00]: 2001 rows loaded
+[2018-02-06T21:26:30+03:00]: BTC: cache file exists
+[2018-02-06T21:26:30+03:00]: 2001 rows loaded
+[2018-02-06T21:27:31+03:00]: BTC: cache file exists
+[2018-02-06T21:27:31+03:00]: 2001 rows loaded
+[2018-02-06T21:35:14+03:00]: BTC: cache file exists
+[2018-02-06T21:35:14+03:00]: 2001 rows loaded
+[2018-02-06T21:46:45+03:00]: BTC: cache file exists
+[2018-02-06T21:46:45+03:00]: 2001 rows loaded
+[2018-02-06T21:52:08+03:00]: BTC: cache file exists
+[2018-02-06T21:52:08+03:00]: 2001 rows loaded
+[2018-02-06T22:10:30+03:00]: BTC: cache file exists
+[2018-02-06T22:10:30+03:00]: 2001 rows loaded
+[2018-02-06T22:10:38+03:00]: BTC: cache file exists
+[2018-02-06T22:10:38+03:00]: 2001 rows loaded
+[2018-02-06T22:37:48+03:00]: BTC: cache file exists
+[2018-02-06T22:37:48+03:00]: 2001 rows loaded
+[2018-02-06T22:41:56+03:00]: BTC: cache file exists
+[2018-02-06T22:41:56+03:00]: 2001 rows loaded
+[2018-02-06T22:43:30+03:00]: BTC: cache file exists
+[2018-02-06T22:43:30+03:00]: 2001 rows loaded
+[2018-02-06T22:45:24+03:00]: BTC: cache file exists
+[2018-02-06T22:45:24+03:00]: 2001 rows loaded
+[2018-02-06T22:47:17+03:00]: BTC: cache file exists
+[2018-02-06T22:47:17+03:00]: 2001 rows loaded
+[2018-02-06T22:48:58+03:00]: BTC: cache file exists
+[2018-02-06T22:48:58+03:00]: 2001 rows loaded
+[2018-02-06T22:50:24+03:00]: BTC: cache file exists
+[2018-02-06T22:50:24+03:00]: 2001 rows loaded
+[2018-02-06T22:51:41+03:00]: BTC: cache file exists
+[2018-02-06T22:51:41+03:00]: 2001 rows loaded
+[2018-02-06T22:53:01+03:00]: BTC: cache file exists
+[2018-02-06T22:53:01+03:00]: 2001 rows loaded
+[2018-02-06T23:00:25+03:00]: BTC: cache file exists
+[2018-02-06T23:00:25+03:00]: 2001 rows loaded
+[2018-02-06T23:04:26+03:00]: BTC: cache file exists
+[2018-02-06T23:04:26+03:00]: 2001 rows loaded
+[2018-02-06T23:04:54+03:00]: BTC: cache file exists
+[2018-02-06T23:04:54+03:00]: 2001 rows loaded
+[2018-02-06T23:06:48+03:00]: BTC: cache file exists
+[2018-02-06T23:06:48+03:00]: 2001 rows loaded
+[2018-02-06T23:08:32+03:00]: BTC: cache file exists
+[2018-02-06T23:08:32+03:00]: 2001 rows loaded
+[2018-02-06T23:09:07+03:00]: BTC: cache file exists
+[2018-02-06T23:09:07+03:00]: 2001 rows loaded
+[2018-02-06T23:09:18+03:00]: BTC: cache file exists
+[2018-02-06T23:09:18+03:00]: 2001 rows loaded
+[2018-02-06T23:10:28+03:00]: BTC: cache file exists
+[2018-02-06T23:10:28+03:00]: 2001 rows loaded
+[2018-02-06T23:10:40+03:00]: BTC: cache file exists
+[2018-02-06T23:10:40+03:00]: 2001 rows loaded
+[2018-02-06T23:10:51+03:00]: BTC: cache file exists
+[2018-02-06T23:10:51+03:00]: 2001 rows loaded
+[2018-02-06T23:12:12+03:00]: BTC: cache file exists
+[2018-02-06T23:12:12+03:00]: 2001 rows loaded
+[2018-02-06T23:12:46+03:00]: BTC: cache file exists
+[2018-02-06T23:12:46+03:00]: 2001 rows loaded
+[2018-02-06T23:24:49+03:00]: BTC: cache file exists
+[2018-02-06T23:24:49+03:00]: 2001 rows loaded
+[2018-02-06T23:28:33+03:00]: BTC: cache file exists
+[2018-02-06T23:28:33+03:00]: 2001 rows loaded
+[2018-02-06T23:37:21+03:00]: BTC: cache file exists
+[2018-02-06T23:37:21+03:00]: 2001 rows loaded
+[2018-02-06T23:40:07+03:00]: BTC: cache file exists
+[2018-02-06T23:40:07+03:00]: 2001 rows loaded
+[2018-02-06T23:44:12+03:00]: BTC: cache file exists
+[2018-02-06T23:44:12+03:00]: 2001 rows loaded
+[2018-02-06T23:56:10+03:00]: BTC: cache file exists
+[2018-02-06T23:56:10+03:00]: 2001 rows loaded
+[2018-02-06T23:59:47+03:00]: BTC: cache file exists
+[2018-02-06T23:59:47+03:00]: 2001 rows loaded
+[2018-02-07T00:01:30+03:00]: BTC: cache file exists
+[2018-02-07T00:01:30+03:00]: 2001 rows loaded
+[2018-02-07T00:04:33+03:00]: BTC: cache file exists
+[2018-02-07T00:04:33+03:00]: 2001 rows loaded
+[2018-02-07T00:07:13+03:00]: BTC: cache file exists
+[2018-02-07T00:07:13+03:00]: 2001 rows loaded
+[2018-02-07T00:10:34+03:00]: BTC: cache file exists
+[2018-02-07T00:10:34+03:00]: 2001 rows loaded
+[2018-02-07T00:13:02+03:00]: BTC: cache file exists
+[2018-02-07T00:13:02+03:00]: 2001 rows loaded
+[2018-02-07T00:16:11+03:00]: BTC: cache file exists
+[2018-02-07T00:16:11+03:00]: 2001 rows loaded
+[2018-02-07T00:18:48+03:00]: BTC: cache file exists
+[2018-02-07T00:18:48+03:00]: 2001 rows loaded
+[2018-02-07T00:20:00+03:00]: BTC: cache file exists
+[2018-02-07T00:20:00+03:00]: 2001 rows loaded
+[2018-02-07T00:20:16+03:00]: BTC: cache file exists
+[2018-02-07T00:20:16+03:00]: 2001 rows loaded
+[2018-02-07T00:20:28+03:00]: BTC: cache file exists
+[2018-02-07T00:20:28+03:00]: 2001 rows loaded
+[2018-02-07T00:32:19+03:00]: BTC: cache file exists
+[2018-02-07T00:32:19+03:00]: 2001 rows loaded
+[2018-02-07T00:37:19+03:00]: BTC: cache file exists
+[2018-02-07T00:37:19+03:00]: 2001 rows loaded
+[2018-02-07T00:37:29+03:00]: BTC: cache file exists
+[2018-02-07T00:37:29+03:00]: 2001 rows loaded
+[2018-02-07T00:40:52+03:00]: BTC: cache file exists
+[2018-02-07T00:40:52+03:00]: 2001 rows loaded
+[2018-02-07T00:41:00+03:00]: BTC: cache file exists
+[2018-02-07T00:41:00+03:00]: 2001 rows loaded
+[2018-02-07T00:53:22+03:00]: BTC: cache file exists
+[2018-02-07T00:53:22+03:00]: 2001 rows loaded
+[2018-02-07T00:56:03+03:00]: BTC: cache file exists
+[2018-02-07T00:56:03+03:00]: 2001 rows loaded
+[2018-02-07T00:56:11+03:00]: BTC: cache file exists
+[2018-02-07T00:56:11+03:00]: 2001 rows loaded
+[2018-02-07T00:58:17+03:00]: BTC: cache file exists
+[2018-02-07T00:58:17+03:00]: 2001 rows loaded
+[2018-02-07T01:00:27+03:00]: BTC: cache file exists
+[2018-02-07T01:00:27+03:00]: 2001 rows loaded
+[2018-02-07T01:02:45+03:00]: BTC: cache file exists
+[2018-02-07T01:02:45+03:00]: 2001 rows loaded
+[2018-02-07T02:05:56+03:00]: BTC: cache file exists
+[2018-02-07T02:05:56+03:00]: 2001 rows loaded
+[2018-02-07T02:11:01+03:00]: 1182 BTC: no cache file present
+[2018-02-07T02:11:01+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-07T02:11:01+03:00]: 2001 rows retrieved from API
+[2018-02-07T02:11:01+03:00]: 2001 rows loaded
+[2018-02-07T02:11:11+03:00]: BTC: cache file exists
+[2018-02-07T02:11:11+03:00]: 2001 rows loaded
+[2018-02-07T02:13:52+03:00]: BTC: cache file exists
+[2018-02-07T02:13:52+03:00]: 2001 rows loaded
+[2018-02-07T02:13:59+03:00]: BTC: cache file exists
+[2018-02-07T02:13:59+03:00]: 2001 rows loaded
+[2018-02-07T02:18:35+03:00]: BTC: cache file exists
+[2018-02-07T02:18:35+03:00]: 2001 rows loaded
+[2018-02-07T02:18:41+03:00]: BTC: cache file exists
+[2018-02-07T02:18:41+03:00]: 2001 rows loaded
+[2018-02-07T02:20:43+03:00]: BTC: cache file exists
+[2018-02-07T02:20:43+03:00]: 2001 rows loaded
+[2018-02-07T02:33:08+03:00]: BTC: cache file exists
+[2018-02-07T02:33:08+03:00]: 2001 rows loaded
+[2018-02-07T02:37:19+03:00]: BTC: cache file exists
+[2018-02-07T02:37:19+03:00]: 2001 rows loaded
+[2018-02-07T02:40:10+03:00]: BTC: cache file exists
+[2018-02-07T02:40:10+03:00]: 2001 rows loaded
+[2018-02-07T02:44:39+03:00]: BTC: cache file exists
+[2018-02-07T02:44:39+03:00]: 2001 rows loaded
+[2018-02-07T02:44:49+03:00]: BTC: cache file exists
+[2018-02-07T02:44:49+03:00]: 2001 rows loaded
+[2018-02-07T02:46:57+03:00]: BTC: cache file exists
+[2018-02-07T02:46:57+03:00]: 2001 rows loaded
+[2018-02-07T02:47:04+03:00]: BTC: cache file exists
+[2018-02-07T02:47:04+03:00]: 2001 rows loaded
+[2018-02-07T03:01:45+03:00]: BTC: cache file exists
+[2018-02-07T03:01:45+03:00]: 2001 rows loaded
+[2018-02-07T03:02:40+03:00]: BTC: cache file exists
+[2018-02-07T03:02:40+03:00]: 2001 rows loaded
+[2018-02-07T03:02:47+03:00]: BTC: cache file exists
+[2018-02-07T03:02:47+03:00]: 2001 rows loaded
+[2018-02-07T03:07:23+03:00]: BTC: cache file exists
+[2018-02-07T03:07:23+03:00]: 2001 rows loaded
+[2018-02-07T03:15:38+03:00]: BTC: cache file exists
+[2018-02-07T03:15:38+03:00]: 2001 rows loaded
+[2018-02-07T04:21:17+03:00]: BTC: cache file exists
+[2018-02-07T04:21:17+03:00]: 2001 rows loaded
+[2018-02-07T04:21:41+03:00]: BTC: cache file exists
+[2018-02-07T04:21:41+03:00]: 2001 rows loaded
+[2018-02-07T04:26:09+03:00]: BTC: cache file exists
+[2018-02-07T04:26:09+03:00]: 2001 rows loaded
+[2018-02-07T04:26:24+03:00]: BTC: cache file exists
+[2018-02-07T04:26:24+03:00]: 2001 rows loaded
+[2018-02-07T04:28:33+03:00]: BTC: cache file exists
+[2018-02-07T04:28:33+03:00]: 2001 rows loaded
+[2018-02-07T04:29:30+03:00]: BTC: cache file exists
+[2018-02-07T04:29:30+03:00]: 2001 rows loaded
+[2018-02-07T04:30:41+03:00]: BTC: cache file exists
+[2018-02-07T04:30:41+03:00]: 2001 rows loaded
+[2018-02-07T04:35:49+03:00]: BTC: cache file exists
+[2018-02-07T04:35:49+03:00]: 2001 rows loaded
+[2018-02-07T04:39:05+03:00]: BTC: cache file exists
+[2018-02-07T04:39:06+03:00]: 2001 rows loaded
+[2018-02-07T04:41:56+03:00]: BTC: cache file exists
+[2018-02-07T04:41:56+03:00]: 2001 rows loaded
+[2018-02-07T04:42:23+03:00]: BTC: cache file exists
+[2018-02-07T04:42:23+03:00]: 2001 rows loaded
+[2018-02-07T04:43:13+03:00]: BTC: cache file exists
+[2018-02-07T04:43:13+03:00]: 2001 rows loaded
+[2018-02-07T04:51:29+03:00]: BTC: cache file exists
+[2018-02-07T04:51:29+03:00]: 2001 rows loaded
+[2018-02-07T04:51:52+03:00]: BTC: cache file exists
+[2018-02-07T04:51:52+03:00]: 2001 rows loaded
+[2018-02-07T04:56:49+03:00]: BTC: cache file exists
+[2018-02-07T04:56:49+03:00]: 2001 rows loaded
+[2018-02-07T05:03:37+03:00]: BTC: cache file exists
+[2018-02-07T05:03:37+03:00]: 2001 rows loaded
+[2018-02-07T05:04:32+03:00]: BTC: cache file exists
+[2018-02-07T05:04:32+03:00]: 2001 rows loaded
+[2018-02-07T05:22:21+03:00]: BTC: cache file exists
+[2018-02-07T05:22:21+03:00]: 2001 rows loaded
+[2018-02-07T05:31:16+03:00]: BTC: cache file exists
+[2018-02-07T05:31:16+03:00]: 2001 rows loaded
+[2018-02-07T05:31:32+03:00]: BTC: cache file exists
+[2018-02-07T05:31:32+03:00]: 2001 rows loaded
+[2018-02-07T05:36:15+03:00]: BTC: cache file exists
+[2018-02-07T05:36:15+03:00]: 2001 rows loaded
+[2018-02-07T05:36:47+03:00]: BTC: cache file exists
+[2018-02-07T05:36:47+03:00]: 2001 rows loaded
+[2018-02-07T05:37:45+03:00]: BTC: cache file exists
+[2018-02-07T05:37:45+03:00]: 2001 rows loaded
+[2018-02-07T05:47:07+03:00]: BTC: cache file exists
+[2018-02-07T05:47:07+03:00]: 2001 rows loaded
+[2018-02-07T05:56:15+03:00]: BTC: cache file exists
+[2018-02-07T05:56:15+03:00]: 2001 rows loaded
+[2018-02-07T05:56:21+03:00]: BTC: cache file exists
+[2018-02-07T05:56:21+03:00]: 2001 rows loaded
+[2018-02-07T05:56:32+03:00]: BTC: cache file exists
+[2018-02-07T05:56:32+03:00]: 2001 rows loaded
+[2018-02-07T05:57:00+03:00]: BTC: cache file exists
+[2018-02-07T05:57:00+03:00]: 2001 rows loaded
+[2018-02-07T06:15:01+03:00]: BTC: cache file exists
+[2018-02-07T06:15:01+03:00]: 2001 rows loaded
+[2018-02-07T06:16:43+03:00]: BTC: cache file exists
+[2018-02-07T06:16:43+03:00]: 2001 rows loaded
+[2018-02-07T06:24:16+03:00]: BTC: cache file exists
+[2018-02-07T06:24:16+03:00]: 2001 rows loaded
+[2018-02-07T10:05:09+03:00]: BTC: cache file exists
+[2018-02-07T10:05:09+03:00]: 2001 rows loaded
+[2018-02-07T10:29:13+03:00]: BTC: cache file exists
+[2018-02-07T10:29:13+03:00]: 2001 rows loaded
+[2018-02-07T10:40:08+03:00]: BTC: cache file exists
+[2018-02-07T10:40:08+03:00]: 2001 rows loaded
+[2018-02-07T11:01:20+03:00]: BTC: cache file exists
+[2018-02-07T11:01:20+03:00]: 2001 rows loaded
+[2018-02-07T11:43:42+03:00]: BTC: cache file exists
+[2018-02-07T11:43:42+03:00]: 2001 rows loaded
+[2018-02-07T12:21:08+03:00]: BTC: cache file exists
+[2018-02-07T12:21:08+03:00]: 2001 rows loaded
+[2018-02-07T12:21:27+03:00]: BTC: cache file exists
+[2018-02-07T12:21:27+03:00]: 2001 rows loaded
+[2018-02-07T12:51:29+03:00]: BTC: cache file exists
+[2018-02-07T12:51:29+03:00]: 2001 rows loaded
+[2018-02-07T12:58:25+03:00]: BTC: cache file exists
+[2018-02-07T12:58:25+03:00]: 2001 rows loaded
+[2018-02-07T13:03:23+03:00]: BTC: cache file exists
+[2018-02-07T13:03:23+03:00]: 2001 rows loaded
+[2018-02-07T13:06:13+03:00]: BTC: cache file exists
+[2018-02-07T13:06:13+03:00]: 2001 rows loaded
+[2018-02-07T13:16:33+03:00]: BTC: cache file exists
+[2018-02-07T13:16:33+03:00]: 2001 rows loaded
+[2018-02-07T13:48:30+03:00]: BTC: cache file exists
+[2018-02-07T13:48:30+03:00]: 2001 rows loaded
+[2018-02-07T13:57:03+03:00]: BTC: cache file exists
+[2018-02-07T13:57:03+03:00]: 2001 rows loaded
+[2018-02-07T13:58:40+03:00]: BTC: cache file exists
+[2018-02-07T13:58:40+03:00]: 2001 rows loaded
+[2018-02-07T14:05:54+03:00]: BTC: cache file exists
+[2018-02-07T14:05:54+03:00]: 2001 rows loaded
+[2018-02-07T14:12:01+03:00]: 1182 BTC: no cache file present
+[2018-02-07T14:12:01+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-07T14:12:02+03:00]: 2001 rows retrieved from API
+[2018-02-07T14:12:02+03:00]: 2001 rows loaded
+[2018-02-07T14:12:24+03:00]: BTC: cache file exists
+[2018-02-07T14:12:24+03:00]: 2001 rows loaded
+[2018-02-07T14:21:34+03:00]: BTC: cache file exists
+[2018-02-07T14:21:34+03:00]: 2001 rows loaded
+[2018-02-07T14:30:35+03:00]: BTC: cache file exists
+[2018-02-07T14:30:35+03:00]: 2001 rows loaded
+[2018-02-07T14:32:49+03:00]: BTC: cache file exists
+[2018-02-07T14:32:49+03:00]: 2001 rows loaded
+[2018-02-07T15:18:28+03:00]: BTC: cache file exists
+[2018-02-07T15:18:28+03:00]: 2001 rows loaded
+[2018-02-07T15:20:42+03:00]: BTC: cache file exists
+[2018-02-07T15:20:42+03:00]: 2001 rows loaded
+[2018-02-07T15:23:17+03:00]: BTC: cache file exists
+[2018-02-07T15:23:17+03:00]: 2001 rows loaded
+[2018-02-07T15:24:34+03:00]: BTC: cache file exists
+[2018-02-07T15:24:34+03:00]: 2001 rows loaded
+[2018-02-07T15:25:42+03:00]: BTC: cache file exists
+[2018-02-07T15:25:42+03:00]: 2001 rows loaded
+[2018-02-07T15:26:54+03:00]: BTC: cache file exists
+[2018-02-07T15:26:54+03:00]: 2001 rows loaded
+[2018-02-07T15:27:35+03:00]: BTC: cache file exists
+[2018-02-07T15:27:35+03:00]: 2001 rows loaded
+[2018-02-07T15:30:53+03:00]: BTC: cache file exists
+[2018-02-07T15:30:53+03:00]: 2001 rows loaded
+[2018-02-07T15:31:06+03:00]: BTC: cache file exists
+[2018-02-07T15:31:06+03:00]: 2001 rows loaded
+[2018-02-07T15:31:37+03:00]: BTC: cache file exists
+[2018-02-07T15:31:37+03:00]: 2001 rows loaded
+[2018-02-07T15:32:48+03:00]: BTC: cache file exists
+[2018-02-07T15:32:48+03:00]: 2001 rows loaded
+[2018-02-07T15:38:29+03:00]: BTC: cache file exists
+[2018-02-07T15:38:29+03:00]: 2001 rows loaded
+[2018-02-07T15:39:31+03:00]: BTC: cache file exists
+[2018-02-07T15:39:31+03:00]: 2001 rows loaded
+[2018-02-07T15:43:04+03:00]: BTC: cache file exists
+[2018-02-07T15:43:04+03:00]: 2001 rows loaded
+[2018-02-07T15:43:57+03:00]: BTC: cache file exists
+[2018-02-07T15:43:57+03:00]: 2001 rows loaded
+[2018-02-07T15:44:17+03:00]: BTC: cache file exists
+[2018-02-07T15:44:17+03:00]: 2001 rows loaded
+[2018-02-07T15:48:25+03:00]: BTC: cache file exists
+[2018-02-07T15:48:25+03:00]: 2001 rows loaded
+[2018-02-07T15:49:01+03:00]: BTC: cache file exists
+[2018-02-07T15:49:01+03:00]: 2001 rows loaded
+[2018-02-07T15:49:13+03:00]: BTC: cache file exists
+[2018-02-07T15:49:13+03:00]: 2001 rows loaded
+[2018-02-07T15:50:25+03:00]: BTC: cache file exists
+[2018-02-07T15:50:25+03:00]: 2001 rows loaded
+[2018-02-07T15:50:50+03:00]: BTC: cache file exists
+[2018-02-07T15:50:50+03:00]: 2001 rows loaded
+[2018-02-07T16:16:47+03:00]: BTC: cache file exists
+[2018-02-07T16:16:47+03:00]: 2001 rows loaded
+[2018-02-07T16:17:34+03:00]: BTC: cache file exists
+[2018-02-07T16:17:34+03:00]: 2001 rows loaded
+[2018-02-07T16:17:52+03:00]: BTC: cache file exists
+[2018-02-07T16:17:52+03:00]: 2001 rows loaded
+[2018-02-07T16:23:11+03:00]: BTC: cache file exists
+[2018-02-07T16:23:11+03:00]: 2001 rows loaded
+[2018-02-07T16:49:06+03:00]: BTC: cache file exists
+[2018-02-07T16:49:06+03:00]: 2001 rows loaded
+[2018-02-07T16:51:01+03:00]: BTC: cache file exists
+[2018-02-07T16:51:01+03:00]: 2001 rows loaded
+[2018-02-07T16:57:17+03:00]: BTC: cache file exists
+[2018-02-07T16:57:17+03:00]: 2001 rows loaded
+[2018-02-07T16:57:39+03:00]: BTC: cache file exists
+[2018-02-07T16:57:39+03:00]: 2001 rows loaded
+[2018-02-07T16:57:44+03:00]: BTC: cache file exists
+[2018-02-07T16:57:44+03:00]: 2001 rows loaded
+[2018-02-07T16:59:25+03:00]: BTC: cache file exists
+[2018-02-07T16:59:25+03:00]: 2001 rows loaded
+[2018-02-07T17:00:22+03:00]: BTC: cache file exists
+[2018-02-07T17:00:22+03:00]: 2001 rows loaded
+[2018-02-07T17:04:35+03:00]: BTC: cache file exists
+[2018-02-07T17:04:35+03:00]: 2001 rows loaded
+[2018-02-07T17:08:14+03:00]: BTC: cache file exists
+[2018-02-07T17:08:14+03:00]: 2001 rows loaded
+[2018-02-07T17:10:32+03:00]: BTC: cache file exists
+[2018-02-07T17:10:32+03:00]: 2001 rows loaded
+[2018-02-07T17:12:50+03:00]: BTC: cache file exists
+[2018-02-07T17:12:50+03:00]: 2001 rows loaded
+[2018-02-07T17:15:25+03:00]: BTC: cache file exists
+[2018-02-07T17:15:25+03:00]: 2001 rows loaded
+[2018-02-07T17:17:42+03:00]: BTC: cache file exists
+[2018-02-07T17:17:42+03:00]: 2001 rows loaded
+[2018-02-07T17:22:09+03:00]: BTC: cache file exists
+[2018-02-07T17:22:09+03:00]: 2001 rows loaded
+[2018-02-07T17:29:32+03:00]: BTC: cache file exists
+[2018-02-07T17:29:32+03:00]: 2001 rows loaded
+[2018-02-07T19:13:00+03:00]: BTC: cache file exists
+[2018-02-07T19:13:00+03:00]: 2001 rows loaded
+[2018-02-07T19:13:39+03:00]: BTC: cache file exists
+[2018-02-07T19:13:39+03:00]: 2001 rows loaded
+[2018-02-07T19:19:16+03:00]: BTC: cache file exists
+[2018-02-07T19:19:16+03:00]: 2001 rows loaded
+[2018-02-07T21:47:25+03:00]: BTC: cache file exists
+[2018-02-07T21:47:25+03:00]: 2001 rows loaded
+[2018-02-07T22:53:41+03:00]: BTC: cache file exists
+[2018-02-07T22:53:41+03:00]: 2001 rows loaded
+[2018-02-07T23:11:06+03:00]: BTC: cache file exists
+[2018-02-07T23:11:06+03:00]: 2001 rows loaded
+[2018-02-07T23:58:25+03:00]: BTC: cache file exists
+[2018-02-07T23:58:25+03:00]: 2001 rows loaded
+[2018-02-07T23:59:13+03:00]: BTC: cache file exists
+[2018-02-07T23:59:13+03:00]: 2001 rows loaded
+[2018-02-07T23:59:20+03:00]: BTC: cache file exists
+[2018-02-07T23:59:20+03:00]: 2001 rows loaded
+[2018-02-08T00:00:52+03:00]: BTC: cache file exists
+[2018-02-08T00:00:52+03:00]: 2001 rows loaded
+[2018-02-08T00:05:44+03:00]: BTC: cache file exists
+[2018-02-08T00:05:44+03:00]: 2001 rows loaded
+[2018-02-08T11:20:52+03:00]: 1182 BTC: no cache file present
+[2018-02-08T11:20:52+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-08T11:20:53+03:00]: 2001 rows retrieved from API
+[2018-02-08T11:20:53+03:00]: 2001 rows loaded
+[2018-02-08T12:21:41+03:00]: BTC: cache file exists
+[2018-02-08T12:21:41+03:00]: 2001 rows loaded
+[2018-02-08T13:17:10+03:00]: BTC: cache file exists
+[2018-02-08T13:17:10+03:00]: 2001 rows loaded
+[2018-02-08T13:21:24+03:00]: BTC: cache file exists
+[2018-02-08T13:21:24+03:00]: 2001 rows loaded
+[2018-02-08T14:46:19+03:00]: BTC: cache file exists
+[2018-02-08T14:46:19+03:00]: 2001 rows loaded
+[2018-02-08T15:06:28+03:00]: BTC: cache file exists
+[2018-02-08T15:06:28+03:00]: 2001 rows loaded
+[2018-02-08T15:37:44+03:00]: BTC: cache file exists
+[2018-02-08T15:37:44+03:00]: 2001 rows loaded
+[2018-02-08T15:38:07+03:00]: BTC: cache file exists
+[2018-02-08T15:38:07+03:00]: 2001 rows loaded
+[2018-02-08T15:38:46+03:00]: BTC: cache file exists
+[2018-02-08T15:38:46+03:00]: 2001 rows loaded
+[2018-02-08T15:39:15+03:00]: BTC: cache file exists
+[2018-02-08T15:39:15+03:00]: 2001 rows loaded
+[2018-02-08T15:40:22+03:00]: BTC: cache file exists
+[2018-02-08T15:40:22+03:00]: 2001 rows loaded
+[2018-02-08T15:41:26+03:00]: BTC: cache file exists
+[2018-02-08T15:41:26+03:00]: 2001 rows loaded
+[2018-02-08T15:41:53+03:00]: BTC: cache file exists
+[2018-02-08T15:41:53+03:00]: 2001 rows loaded
+[2018-02-08T15:42:19+03:00]: BTC: cache file exists
+[2018-02-08T15:42:19+03:00]: 2001 rows loaded
+[2018-02-08T15:43:00+03:00]: BTC: cache file exists
+[2018-02-08T15:43:00+03:00]: 2001 rows loaded
+[2018-02-08T15:43:40+03:00]: BTC: cache file exists
+[2018-02-08T15:43:40+03:00]: 2001 rows loaded
+[2018-02-08T15:43:55+03:00]: BTC: cache file exists
+[2018-02-08T15:43:55+03:00]: 2001 rows loaded
+[2018-02-08T15:43:58+03:00]: BTC: cache file exists
+[2018-02-08T15:43:58+03:00]: 2001 rows loaded
+[2018-02-08T15:44:43+03:00]: BTC: cache file exists
+[2018-02-08T15:44:43+03:00]: 2001 rows loaded
+[2018-02-08T15:44:55+03:00]: BTC: cache file exists
+[2018-02-08T15:44:55+03:00]: 2001 rows loaded
+[2018-02-08T15:45:52+03:00]: BTC: cache file exists
+[2018-02-08T15:45:52+03:00]: 2001 rows loaded
+[2018-02-08T15:47:03+03:00]: BTC: cache file exists
+[2018-02-08T15:47:03+03:00]: 2001 rows loaded
+[2018-02-08T20:37:37+03:00]: BTC: cache file exists
+[2018-02-08T20:37:37+03:00]: 2001 rows loaded
+[2018-02-08T20:45:08+03:00]: BTC: cache file exists
+[2018-02-08T20:45:08+03:00]: 2001 rows loaded
+[2018-02-08T21:00:17+03:00]: BTC: cache file exists
+[2018-02-08T21:00:17+03:00]: 2001 rows loaded
+[2018-02-08T21:01:53+03:00]: BTC: cache file exists
+[2018-02-08T21:01:53+03:00]: 2001 rows loaded
+[2018-02-08T21:02:58+03:00]: BTC: cache file exists
+[2018-02-08T21:02:58+03:00]: 2001 rows loaded
+[2018-02-08T21:04:34+03:00]: BTC: cache file exists
+[2018-02-08T21:04:34+03:00]: 2001 rows loaded
+[2018-02-08T21:08:39+03:00]: BTC: cache file exists
+[2018-02-08T21:08:39+03:00]: 2001 rows loaded
+[2018-02-08T21:12:00+03:00]: BTC: cache file exists
+[2018-02-08T21:12:00+03:00]: 2001 rows loaded
+[2018-02-08T21:16:49+03:00]: BTC: cache file exists
+[2018-02-08T21:16:49+03:00]: 2001 rows loaded
+[2018-02-08T21:17:53+03:00]: BTC: cache file exists
+[2018-02-08T21:17:53+03:00]: 2001 rows loaded
+[2018-02-08T21:19:01+03:00]: BTC: cache file exists
+[2018-02-08T21:19:01+03:00]: 2001 rows loaded
+[2018-02-08T21:20:18+03:00]: BTC: cache file exists
+[2018-02-08T21:20:18+03:00]: 2001 rows loaded
+[2018-02-08T21:20:47+03:00]: BTC: cache file exists
+[2018-02-08T21:20:47+03:00]: 2001 rows loaded
+[2018-02-08T21:30:59+03:00]: BTC: cache file exists
+[2018-02-08T21:30:59+03:00]: 2001 rows loaded
+[2018-02-08T21:34:06+03:00]: BTC: cache file exists
+[2018-02-08T21:34:06+03:00]: 2001 rows loaded
+[2018-02-08T21:38:41+03:00]: BTC: cache file exists
+[2018-02-08T21:38:41+03:00]: 2001 rows loaded
+[2018-02-08T22:36:16+03:00]: BTC: cache file exists
+[2018-02-08T22:36:16+03:00]: 2001 rows loaded
+[2018-02-09T20:05:30+03:00]: 1182 BTC: no cache file present
+[2018-02-09T20:05:30+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-09T20:05:30+03:00]: 2001 rows retrieved from API
+[2018-02-09T20:05:30+03:00]: 2001 rows loaded
+[2018-02-10T00:08:11+03:00]: BTC: cache file exists
+[2018-02-10T00:08:11+03:00]: 2001 rows loaded
+[2018-02-10T00:12:08+03:00]: BTC: cache file exists
+[2018-02-10T00:12:08+03:00]: 2001 rows loaded
+[2018-02-10T01:32:35+03:00]: BTC: cache file exists
+[2018-02-10T01:32:35+03:00]: 2001 rows loaded
+[2018-02-10T01:32:47+03:00]: BTC: cache file exists
+[2018-02-10T01:32:47+03:00]: 2001 rows loaded
+[2018-02-10T01:32:56+03:00]: 30736 GBYTE: no cache file present
+[2018-02-10T01:32:56+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=GBYTE&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-10T01:32:57+03:00]: 0 rows loaded
+[2018-02-10T01:33:18+03:00]: 20131 WAVES: no cache file present
+[2018-02-10T01:33:18+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=WAVES&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-10T01:33:19+03:00]: 2001 rows retrieved from API
+[2018-02-10T01:33:19+03:00]: 2001 rows loaded
+[2018-02-10T01:35:37+03:00]: 5285 XEM: no cache file present
+[2018-02-10T01:35:37+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XEM&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-10T01:35:38+03:00]: 2001 rows retrieved from API
+[2018-02-10T01:35:38+03:00]: 2001 rows loaded
+[2018-02-10T01:37:34+03:00]: 4614 XLM: no cache file present
+[2018-02-10T01:37:34+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XLM&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-10T01:37:34+03:00]: 2001 rows retrieved from API
+[2018-02-10T01:37:34+03:00]: 2001 rows loaded
+[2018-02-10T09:45:56+03:00]: 1182 BTC: no cache file present
+[2018-02-10T09:45:56+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-10T09:45:56+03:00]: 2001 rows retrieved from API
+[2018-02-10T09:45:56+03:00]: 2001 rows loaded
+[2018-02-11T01:49:26+03:00]: 1182 BTC: no cache file present
+[2018-02-11T01:49:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-11T01:49:26+03:00]: 2001 rows retrieved from API
+[2018-02-11T01:49:26+03:00]: 2001 rows loaded
+[2018-02-11T21:12:59+03:00]: 1182 BTC: no cache file present
+[2018-02-11T21:12:59+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-11T21:13:00+03:00]: 2001 rows retrieved from API
+[2018-02-11T21:13:00+03:00]: 2001 rows loaded
+[2018-02-11T21:22:45+03:00]: BTC: cache file exists
+[2018-02-11T21:22:45+03:00]: 2001 rows loaded
+[2018-02-12T10:35:37+03:00]: 1182 BTC: no cache file present
+[2018-02-12T10:35:37+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-12T10:35:37+03:00]: 2001 rows retrieved from API
+[2018-02-12T10:35:37+03:00]: 2001 rows loaded
+[2018-02-12T19:26:08+03:00]: BTC: cache file exists
+[2018-02-12T19:26:08+03:00]: 2001 rows loaded
+[2018-02-12T22:46:12+03:00]: 1182 BTC: no cache file present
+[2018-02-12T22:46:12+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-12T22:46:13+03:00]: 0 rows loaded
+[2018-02-13T08:14:27+03:00]: 1182 BTC: no cache file present
+[2018-02-13T08:14:27+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-13T08:14:28+03:00]: 0 rows loaded
+[2018-02-13T21:49:57+03:00]: 1182 BTC: no cache file present
+[2018-02-13T21:49:57+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-13T21:49:58+03:00]: 0 rows loaded
+[2018-02-13T21:50:17+03:00]: 1182 BTC: no cache file present
+[2018-02-13T21:50:17+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-13T21:50:17+03:00]: 2001 rows retrieved from API
+[2018-02-13T21:50:17+03:00]: 2001 rows loaded
+[2018-02-15T14:43:26+03:00]: 1182 BTC: no cache file present
+[2018-02-15T14:43:26+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-15T14:43:26+03:00]: 2001 rows retrieved from API
+[2018-02-15T14:43:26+03:00]: 2001 rows loaded
+[2018-02-15T17:34:56+03:00]: BTC: cache file exists
+[2018-02-15T17:34:56+03:00]: 2001 rows loaded
+[2018-02-16T13:30:59+03:00]: 1182 BTC: no cache file present
+[2018-02-16T13:30:59+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-16T13:30:59+03:00]: 2001 rows retrieved from API
+[2018-02-16T13:30:59+03:00]: 2001 rows loaded
+[2018-02-16T13:33:09+03:00]: BTC: cache file exists
+[2018-02-16T13:33:09+03:00]: 2001 rows loaded
+[2018-02-16T13:33:11+03:00]: BTC: cache file exists
+[2018-02-16T13:33:11+03:00]: 2001 rows loaded
+[2018-02-16T13:33:11+03:00]: BTC: cache file exists
+[2018-02-16T13:33:11+03:00]: 2001 rows loaded
+[2018-02-17T16:03:41+03:00]: 1182 BTC: no cache file present
+[2018-02-17T16:03:41+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-17T16:03:41+03:00]: 2001 rows retrieved from API
+[2018-02-17T16:03:41+03:00]: 2001 rows loaded
+[2018-02-17T16:04:21+03:00]: BTC: cache file exists
+[2018-02-17T16:04:21+03:00]: 2001 rows loaded
+[2018-02-17T16:58:46+03:00]: BTC: cache file exists
+[2018-02-17T16:58:46+03:00]: 2001 rows loaded
+[2018-02-17T17:06:06+03:00]: BTC: cache file exists
+[2018-02-17T17:06:06+03:00]: 2001 rows loaded
+[2018-02-17T19:25:31+03:00]: BTC: cache file exists
+[2018-02-17T19:25:31+03:00]: 2001 rows loaded
+[2018-02-17T23:36:37+03:00]: BTC: cache file exists
+[2018-02-17T23:36:37+03:00]: 2001 rows loaded
+[2018-02-17T23:40:10+03:00]: BTC: cache file exists
+[2018-02-17T23:40:10+03:00]: 2001 rows loaded
+[2018-02-18T12:54:56+03:00]: 1182 BTC: no cache file present
+[2018-02-18T12:54:56+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-18T12:54:56+03:00]: 2001 rows retrieved from API
+[2018-02-18T12:54:56+03:00]: 2001 rows loaded
+[2018-02-19T06:03:08+03:00]: 1182 BTC: no cache file present
+[2018-02-19T06:03:08+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-19T06:03:09+03:00]: 0 rows loaded
+[2018-02-19T09:53:53+03:00]: 1182 BTC: no cache file present
+[2018-02-19T09:53:53+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-19T09:53:54+03:00]: 0 rows loaded
+[2018-02-19T13:03:42+03:00]: 1182 BTC: no cache file present
+[2018-02-19T13:03:42+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-19T13:03:43+03:00]: 2001 rows retrieved from API
+[2018-02-19T13:03:43+03:00]: 2001 rows loaded
+[2018-02-19T13:04:48+03:00]: 310829 TRX: no cache file present
+[2018-02-19T13:04:48+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=TRX&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-19T13:04:49+03:00]: 2001 rows retrieved from API
+[2018-02-19T13:04:49+03:00]: 2001 rows loaded
+[2018-02-19T13:05:10+03:00]: 4433 XVG: no cache file present
+[2018-02-19T13:05:10+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=XVG&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-19T13:05:10+03:00]: 2001 rows retrieved from API
+[2018-02-19T13:05:10+03:00]: 2001 rows loaded
+[2018-02-19T13:21:13+03:00]: BTC: cache file exists
+[2018-02-19T13:21:13+03:00]: 2001 rows loaded
+[2018-02-19T13:21:22+03:00]: BTC: cache file exists
+[2018-02-19T13:21:22+03:00]: 2001 rows loaded
+[2018-02-19T13:21:33+03:00]: BTC: cache file exists
+[2018-02-19T13:21:33+03:00]: 2001 rows loaded
+[2018-02-19T13:40:25+03:00]: BTC: cache file exists
+[2018-02-19T13:40:25+03:00]: 2001 rows loaded
+[2018-02-19T13:43:19+03:00]: BTC: cache file exists
+[2018-02-19T13:43:19+03:00]: 2001 rows loaded
+[2018-02-20T05:11:54+03:00]: 1182 BTC: no cache file present
+[2018-02-20T05:11:54+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-20T05:11:54+03:00]: 2001 rows retrieved from API
+[2018-02-20T05:11:54+03:00]: 2001 rows loaded
+[2018-02-21T16:25:46+03:00]: 1182 BTC: no cache file present
+[2018-02-21T16:25:46+03:00]: https://min-api.cryptocompare.com/data/histoday?fsym=BTC&tsym=USD&limit=2000&aggregate=1&allData=false
+[2018-02-21T16:25:47+03:00]: 2001 rows retrieved from API
+[2018-02-21T16:25:47+03:00]: 2001 rows loaded
